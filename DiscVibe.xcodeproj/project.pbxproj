@@ -1,0 +1,484 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0FUK5SCI4HP49649Y19635B8 /* Pods_DiscVibe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 390K4663303DVU2AZ01197EC /* Pods_DiscVibe.framework */; };
+		AU57U010G0C5120557R6R235 /* DV_AnalyzerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZD6R2V46A806158418QLL06Y /* DV_AnalyzerController.swift */; };
+		JFR2485003P9903Z3U33H033 /* DV_UserObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = OMCMXJFHN96FK7664121114B /* DV_UserObject.swift */; };
+		OA54NA7CYUCJJ9D628066768 /* DV_LaunchHeaderController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ZBD9Q309942RCSD53P4L4795 /* DV_LaunchHeaderController.swift */; };
+		SD9JP318KCZ753X91S347JF5 /* DV_EventsExtensionObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = RVDD034514364867092N7AY5 /* DV_EventsExtensionObject.swift */; };
+		SG148M992RA7MF4807E6JA89 /* DV_CommentObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = FG98U945I915550P31298F34 /* DV_CommentObject.swift */; };
+		VD349QD482D48961243B6115 /* DV_EmptyController.swift in Sources */ = {isa = PBXBuildFile; fileRef = LENF0556L6R178178U1JN723 /* DV_EmptyController.swift */; };
+		WI2C42ETBP08Z861GJP9653B /* DV_WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBWCN256A8ZQ793Z7TK086U0 /* DV_WelcomeView.swift */; };
+		XD3RY763UP72WKJFG9Q5610T /* DV_NetworkMediaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ER817H7AH70A939Q020324A1 /* DV_NetworkMediaView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0493D15GM6J0Z23R406M361A /* DiscVibe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DiscVibe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D0070662CI3D3N35Y5IP3U7 /* Pods-DiscVibe.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DiscVibe.debug.xcconfig"; path = "Target Support Files/Pods-DiscVibe/Pods-DiscVibe.debug.xcconfig"; sourceTree = "<group>"; };
+		390K4663303DVU2AZ01197EC /* Pods_DiscVibe.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DiscVibe.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		889H4D9188957TC1OE5XMVGM /* Pods-DiscVibe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DiscVibe.release.xcconfig"; path = "Target Support Files/Pods-DiscVibe/Pods-DiscVibe.release.xcconfig"; sourceTree = "<group>"; };
+		EBWCN256A8ZQ793Z7TK086U0 /* DV_WelcomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_WelcomeView.swift; sourceTree = "<group>"; };
+		ER817H7AH70A939Q020324A1 /* DV_NetworkMediaView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_NetworkMediaView.swift; sourceTree = "<group>"; };
+		FG98U945I915550P31298F34 /* DV_CommentObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_CommentObject.swift; sourceTree = "<group>"; };
+		LENF0556L6R178178U1JN723 /* DV_EmptyController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_EmptyController.swift; sourceTree = "<group>"; };
+		OMCMXJFHN96FK7664121114B /* DV_UserObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_UserObject.swift; sourceTree = "<group>"; };
+		RVDD034514364867092N7AY5 /* DV_EventsExtensionObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_EventsExtensionObject.swift; sourceTree = "<group>"; };
+		ZBD9Q309942RCSD53P4L4795 /* DV_LaunchHeaderController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_LaunchHeaderController.swift; sourceTree = "<group>"; };
+		ZD6R2V46A806158418QLL06Y /* DV_AnalyzerController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.swift; path = DV_AnalyzerController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		045Y55FO61531654B3117M7P /* Exceptions for "DiscVibe" folder in "DiscVibe" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 049163H7X7D512B9135VQ6BI /* DiscVibe */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		04FQ284BQ1477A0753WY342J /* DiscVibe */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				045Y55FO61531654B3117M7P /* Exceptions for "DiscVibe" folder in "DiscVibe" target */,
+			);
+			path = DiscVibe;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0406EN578149K905Z6058940 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0FUK5SCI4HP49649Y19635B8 /* Pods_DiscVibe.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		048R09D05KI75B075RJ4THLF = {
+			isa = PBXGroup;
+			children = (
+				04FQ284BQ1477A0753WY342J /* DiscVibe */,
+				04O62FLXL7O692Q3504794S6 /* Products */,
+				B09CF52PY065D714O51ZI811 /* Pods */,
+				1055344W320Y36C9474SV0R8 /* Frameworks */,
+				LN2E54294143T72A04BY6801 /* avstring */,
+			);
+			sourceTree = "<group>";
+		};
+		04O62FLXL7O692Q3504794S6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0493D15GM6J0Z23R406M361A /* DiscVibe.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1055344W320Y36C9474SV0R8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				390K4663303DVU2AZ01197EC /* Pods_DiscVibe.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B09CF52PY065D714O51ZI811 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0D0070662CI3D3N35Y5IP3U7 /* Pods-DiscVibe.debug.xcconfig */,
+				889H4D9188957TC1OE5XMVGM /* Pods-DiscVibe.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		LN2E54294143T72A04BY6801 /* avstring */ = {
+			isa = PBXGroup;
+			children = (
+				OMCMXJFHN96FK7664121114B /* DV_UserObject.swift */,
+				RVDD034514364867092N7AY5 /* DV_EventsExtensionObject.swift */,
+				ER817H7AH70A939Q020324A1 /* DV_NetworkMediaView.swift */,
+				EBWCN256A8ZQ793Z7TK086U0 /* DV_WelcomeView.swift */,
+				LENF0556L6R178178U1JN723 /* DV_EmptyController.swift */,
+				ZD6R2V46A806158418QLL06Y /* DV_AnalyzerController.swift */,
+				FG98U945I915550P31298F34 /* DV_CommentObject.swift */,
+				ZBD9Q309942RCSD53P4L4795 /* DV_LaunchHeaderController.swift */,
+			);
+			path = avstring;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		049163H7X7D512B9135VQ6BI /* DiscVibe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 040R4W5OSWB33238P01Y1X00 /* Build configuration list for PBXNativeTarget "DiscVibe" */;
+			buildPhases = (
+				1B81V65006F7TW2531970E5C /* [CP] Check Pods Manifest.lock */,
+				0413FC16U48SO225235TM862 /* Sources */,
+				0406EN578149K905Z6058940 /* Frameworks */,
+				048SEH4A75B483N88E3PE135 /* Resources */,
+				751M1K47M2113442Z143836A /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				04FQ284BQ1477A0753WY342J /* DiscVibe */,
+			);
+			name = DiscVibe;
+			productName = DiscVibe;
+			productReference = 0493D15GM6J0Z23R406M361A /* DiscVibe.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04V94N154808802664622Y48 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				CLASSPREFIX = FS_;
+				LastSwiftUpdateCheck = 2620;
+				LastUpgradeCheck = 2620;
+				TargetAttributes = {
+					049163H7X7D512B9135VQ6BI = {
+						CreatedOnToolsVersion = 26.2;
+					};
+				};
+			};
+			buildConfigurationList = 0465312040JZ6RPD0296V13K /* Build configuration list for PBXProject "DiscVibe" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 048R09D05KI75B075RJ4THLF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 04O62FLXL7O692Q3504794S6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				049163H7X7D512B9135VQ6BI /* DiscVibe */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		048SEH4A75B483N88E3PE135 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1B81V65006F7TW2531970E5C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DiscVibe-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		751M1K47M2113442Z143836A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DiscVibe/Pods-DiscVibe-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DiscVibe/Pods-DiscVibe-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DiscVibe/Pods-DiscVibe-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0413FC16U48SO225235TM862 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				JFR2485003P9903Z3U33H033 /* DV_UserObject.swift in Sources */,
+				SD9JP318KCZ753X91S347JF5 /* DV_EventsExtensionObject.swift in Sources */,
+				XD3RY763UP72WKJFG9Q5610T /* DV_NetworkMediaView.swift in Sources */,
+				WI2C42ETBP08Z861GJP9653B /* DV_WelcomeView.swift in Sources */,
+				VD349QD482D48961243B6115 /* DV_EmptyController.swift in Sources */,
+				AU57U010G0C5120557R6R235 /* DV_AnalyzerController.swift in Sources */,
+				SG148M992RA7MF4807E6JA89 /* DV_CommentObject.swift in Sources */,
+				OA54NA7CYUCJJ9D628066768 /* DV_LaunchHeaderController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		04142509LS8N74603KF03913 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 889H4D9188957TC1OE5XMVGM /* Pods-DiscVibe.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DiscVibe/DiscVibe.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DiscVibe/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = DiscVibe;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is required for video calls.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is required for video calls.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = aaa.Frisbee.discVibe;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		048KW0SL69357R3571T4FM62 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		049GT621O8864X50EKWE0X13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		04GK1S352U5X6GUYAS72K331 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0D0070662CI3D3N35Y5IP3U7 /* Pods-DiscVibe.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = DiscVibe/DiscVibe.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HY3YA6W479;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = DiscVibe/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = DiscVibe;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is required for video calls.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is required for video calls.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Frisbee.discVibe;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		040R4W5OSWB33238P01Y1X00 /* Build configuration list for PBXNativeTarget "DiscVibe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04GK1S352U5X6GUYAS72K331 /* Debug */,
+				04142509LS8N74603KF03913 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0465312040JZ6RPD0296V13K /* Build configuration list for PBXProject "DiscVibe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				049GT621O8864X50EKWE0X13 /* Debug */,
+				048KW0SL69357R3571T4FM62 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04V94N154808802664622Y48 /* Project object */;
+}

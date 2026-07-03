@@ -1,0 +1,1446 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/DiscVibe
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : DV_CenterController.swift      ViewController.swift
+新文件 <-> 现有文件 : DV_ApplyController.swift      FS_AnalysisVC.swift
+新文件 <-> 现有文件 : DV_EventsShopController.swift      FS_HomeVC.swift
+新文件 <-> 现有文件 : DV_ContactController.swift      FS_EventsDetailVC.swift
+新文件 <-> 现有文件 : DV_SkillProfileView.swift      FS_HomeHeaderView.swift
+新文件 <-> 现有文件 : DV_BaseCell.swift      FS_HomeEventCell.swift
+新文件 <-> 现有文件 : DV_DataCell.swift      FS_SkillCell.swift
+新文件 <-> 现有文件 : DV_ListView.swift      FS_EventInfoRowView.swift
+新文件 <-> 现有文件 : DV_ProfileController.swift      FS_SkillVC.swift
+新文件 <-> 现有文件 : DV_HeaderPermissionController.swift      FS_SkillDetailVC.swift
+新文件 <-> 现有文件 : DV_AvatarController.swift      FS_VideoVC.swift
+新文件 <-> 现有文件 : DV_ReleaseView.swift      FS_VideoCommentView.swift
+新文件 <-> 现有文件 : DV_AnalyzerMomentCell.swift      FS_VideoCell.swift
+新文件 <-> 现有文件 : DV_CurrentUserController.swift      FS_ApplyVC.swift
+新文件 <-> 现有文件 : DV_EditNewsController.swift      FS_ChatRoomVC.swift
+新文件 <-> 现有文件 : DV_MessageMessageController.swift      FS_ChatVC.swift
+新文件 <-> 现有文件 : DV_VideoController.swift      FS_VideoRoomVC.swift
+新文件 <-> 现有文件 : DV_BlackLaunchCell.swift      FS_ChatMessageCell.swift
+新文件 <-> 现有文件 : DV_BaseView.swift      FS_ChatRoomHeaderView.swift
+新文件 <-> 现有文件 : DV_GuideSkillCell.swift      FS_ChatHistoryCell.swift
+新文件 <-> 现有文件 : DV_CurrentCell.swift      FS_ApplyCell.swift
+新文件 <-> 现有文件 : DV_PermissionReleaseController.swift      FS_MomentVC.swift
+新文件 <-> 现有文件 : DV_InfoController.swift      FS_ReleaseVC.swift
+新文件 <-> 现有文件 : DV_SkillController.swift      FS_MomentDetailVC.swift
+新文件 <-> 现有文件 : DV_MessageEditView.swift      FS_MomentHeaderView.swift
+新文件 <-> 现有文件 : DV_LaunchView.swift      FS_MomentDetailHeaderView.swift
+新文件 <-> 现有文件 : DV_NewsCommentView.swift      FS_MomentDetailInputView.swift
+新文件 <-> 现有文件 : DV_PoseUserCell.swift      FS_MomentCommentCell.swift
+新文件 <-> 现有文件 : DV_MenuEditCell.swift      FS_MomentCell.swift
+新文件 <-> 现有文件 : DV_MainController.swift      FS_ContactVC.swift
+新文件 <-> 现有文件 : DV_ScreenGuideController.swift      FS_FriendsListVC.swift
+新文件 <-> 现有文件 : DV_PersonController.swift      FS_EditVC.swift
+新文件 <-> 现有文件 : DV_CommentHistoryController.swift      FS_PersonVC.swift
+新文件 <-> 现有文件 : DV_SkillPersonController.swift      FS_ReportVC.swift
+新文件 <-> 现有文件 : DV_NewsMessageController.swift      FS_BlackListVC.swift
+新文件 <-> 现有文件 : DV_BaseController.swift      FS_ShopVC.swift
+新文件 <-> 现有文件 : DV_MomentController.swift      FS_ProfileVC.swift
+新文件 <-> 现有文件 : DV_GuideView.swift      FS_ShopHeaderView.swift
+新文件 <-> 现有文件 : DV_FriendsView.swift      FS_PersonHeaderView.swift
+新文件 <-> 现有文件 : DV_ReportCell.swift      FS_FriendListCell.swift
+新文件 <-> 现有文件 : DV_ReleaseLaunchView.swift      FS_ProfileHeaderView.swift
+新文件 <-> 现有文件 : DV_EmptyEmptyCell.swift      FS_ShopCell.swift
+新文件 <-> 现有文件 : DV_ContactCenterCell.swift      FS_ProfileMenuCell.swift
+新文件 <-> 现有文件 : DV_ReleaseTabbarCell.swift      FS_ReportCell.swift
+新文件 <-> 现有文件 : DV_VideoVideoCell.swift      FS_BlackListCell.swift
+新文件 <-> 现有文件 : DV_HomeListController.swift      FS_LoginVC.swift
+新文件 <-> 现有文件 : DV_ListController.swift      FS_WelcomeVC.swift
+新文件 <-> 现有文件 : DV_DelegateController.swift      FS_InfoVC.swift
+新文件 <-> 现有文件 : DV_BaseBlack.swift      UIColor+Extension.swift
+新文件 <-> 现有文件 : DV_Person.swift      FS_IAPManager.swift
+新文件 <-> 现有文件 : DV_TabbarInput.swift      FS_VideoPoseAnalyzer.swift
+新文件 <-> 现有文件 : DV_Extension.swift      FS_UserModel.swift
+新文件 <-> 现有文件 : DV_History.swift      FS_PostModel.swift
+新文件 <-> 现有文件 : DV_Shop.swift      FS_MediaPermission.swift
+新文件 <-> 现有文件 : DV_HistoryHistory.swift      FS_NetworkManager.swift
+新文件 <-> 现有文件 : DV_ReportContact.swift      FS_SkillData.swift
+新文件 <-> 现有文件 : DV_PoseGuide.swift      FS_ShopData.swift
+新文件 <-> 现有文件 : DV_Release.swift      FS_EventData.swift
+新文件 <-> 现有文件 : DV_PoseView.swift      FS_EmptyView.swift
+新文件 <-> 现有文件 : DV_EventsEvents.swift      FS_CurrentUser.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+新文件 <-> 现有文件 : DV_VideoMenuController.swift      FS_LaunchVC.swift
+新文件 <-> 现有文件 : DV_HeaderController.swift      FS_GuideVC.swift
+新文件 <-> 现有文件 : DV_RegisterReportController.swift      FS_TabbarVC.swift
+新文件 <-> 现有文件 : DV_MainDelegateController.swift      FS_BaseVC.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: ViewController <---替换为---> DV_CenterController
+类名: FS_AnalysisVC <---替换为---> DV_ApplyController
+类名: FS_HomeVC <---替换为---> DV_EventsShopController
+类名: FS_EventsDetailVC <---替换为---> DV_ContactController
+类名: FS_HomeHeaderView <---替换为---> DV_SkillProfileView
+类名: FS_HomeEventModel <---替换为---> DV_Room
+类名: FS_HomeEventCell <---替换为---> DV_BaseCell
+类名: FS_SkillCell <---替换为---> DV_DataCell
+类名: FS_EventInfoRowView <---替换为---> DV_ListView
+类名: FS_SkillVC <---替换为---> DV_ProfileController
+类名: FS_SkillDetailVC <---替换为---> DV_HeaderPermissionController
+类名: FS_VideoVC <---替换为---> DV_AvatarController
+类名: FS_VideoCommentView <---替换为---> DV_ReleaseView
+类名: FS_VideoModel <---替换为---> DV_Video
+类名: FS_VideoCell <---替换为---> DV_AnalyzerMomentCell
+类名: FS_ApplyVC <---替换为---> DV_CurrentUserController
+类名: FS_ChatRoomVC <---替换为---> DV_EditNewsController
+类名: FS_ChatVC <---替换为---> DV_MessageMessageController
+类名: FS_VideoRoomVC <---替换为---> DV_VideoController
+类名: FS_ChatMessageModel <---替换为---> DV_Current
+类名: FS_ChatMessageCell <---替换为---> DV_BlackLaunchCell
+类名: FS_ChatRoomUserModel <---替换为---> DV_PersonInfo
+类名: FS_ChatRoomHeaderView <---替换为---> DV_BaseView
+类名: FS_ChatHistoryModel <---替换为---> DV_MomentTabbar
+类名: FS_ChatHistoryCell <---替换为---> DV_GuideSkillCell
+类名: FS_ApplyModel <---替换为---> DV_Header
+类名: FS_ApplyCell <---替换为---> DV_CurrentCell
+类名: FS_MomentVC <---替换为---> DV_PermissionReleaseController
+类名: FS_ReleaseVC <---替换为---> DV_InfoController
+类名: FS_MomentDetailVC <---替换为---> DV_SkillController
+类名: FS_MomentHeaderView <---替换为---> DV_MessageEditView
+类名: FS_MomentDetailHeaderView <---替换为---> DV_LaunchView
+类名: FS_MomentDetailInputView <---替换为---> DV_NewsCommentView
+类名: FS_MomentCommentModel <---替换为---> DV_Empty
+类名: FS_MomentCommentCell <---替换为---> DV_PoseUserCell
+类名: FS_MomentModel <---替换为---> DV_User
+类名: FS_MomentCell <---替换为---> DV_MenuEditCell
+类名: FS_ContactVC <---替换为---> DV_MainController
+类名: FS_FriendsListVC <---替换为---> DV_ScreenGuideController
+类名: FS_EditVC <---替换为---> DV_PersonController
+类名: FS_PersonVC <---替换为---> DV_CommentHistoryController
+类名: FS_ReportVC <---替换为---> DV_SkillPersonController
+类名: FS_BlackListVC <---替换为---> DV_NewsMessageController
+类名: FS_ShopVC <---替换为---> DV_BaseController
+类名: FS_ProfileVC <---替换为---> DV_MomentController
+类名: FS_ShopHeaderView <---替换为---> DV_GuideView
+类名: FS_PersonHeaderView <---替换为---> DV_FriendsView
+类名: FS_FriendListModel <---替换为---> DV_ListRoom
+类名: FS_FriendListCell <---替换为---> DV_ReportCell
+类名: FS_ProfileHeaderView <---替换为---> DV_ReleaseLaunchView
+类名: FS_ShopItemModel <---替换为---> DV_LoginInfo
+类名: FS_ShopCell <---替换为---> DV_EmptyEmptyCell
+类名: FS_ProfileMenuCell <---替换为---> DV_ContactCenterCell
+类名: FS_ReportCell <---替换为---> DV_ReleaseTabbarCell
+类名: FS_BlackListModel <---替换为---> DV_Delegate
+类名: FS_BlackListCell <---替换为---> DV_VideoVideoCell
+类名: FS_LoginVC <---替换为---> DV_HomeListController
+类名: FS_WelcomeVC <---替换为---> DV_ListController
+类名: FS_InfoVC <---替换为---> DV_DelegateController
+类名: FS_IAPManager <---替换为---> DV_Person
+类名: FS_VideoAnalysisResult <---替换为---> DV_Launch
+类名: FS_VideoPoseAnalyzer <---替换为---> DV_TabbarInput
+类名: FS_UserModel <---替换为---> DV_Extension
+类名: FS_PostCommentModel <---替换为---> DV_Base
+类名: FS_PostModel <---替换为---> DV_History
+类名: FS_NetworkManager <---替换为---> DV_HistoryHistory
+类名: FS_SkillModel <---替换为---> DV_Login
+类名: FS_EmptyView <---替换为---> DV_PoseView
+类名: FS_LocalPostModel <---替换为---> DV_Register
+类名: FS_LocalUserModel <---替换为---> DV_MediaNews
+类名: FS_CurrentUser <---替换为---> DV_EventsEvents
+类名: FS_AppleProfile <---替换为---> DV_SkillScreen
+类名: FS_PostInteractionState <---替换为---> DV_ShopExtension
+类名: FS_PersistedLocalUser <---替换为---> DV_MediaInfo
+类名: FS_PersistedChatMessage <---替换为---> DV_DelegateEdit
+类名: FS_PersistedChatSession <---替换为---> DV_Profile
+类名: AppDelegate <---替换为---> AppDelegate
+类名: FS_LaunchVC <---替换为---> DV_VideoMenuController
+类名: FS_GuideVC <---替换为---> DV_HeaderController
+类名: FS_CustomTabBar <---替换为---> DV_Media
+类名: FS_TabbarVC <---替换为---> DV_RegisterReportController
+类名: FS_BaseVC <---替换为---> DV_MainDelegateController
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：0.0017189979553222656秒
+
+
+混淆图片xml资源耗时：1.0006210803985596秒
+
+
+开始替换宏定义名称。。。。。。
+
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+协议: FS_CustomTabBarDelegate <---替换为---> DMDV_DataMenu
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始混淆多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+DV_CenterController : UIViewController
+DV_ApplyController : DV_MainDelegateController
+DV_EventsShopController : DV_MainDelegateController
+DV_ContactController : DV_MainDelegateController
+DV_SkillProfileView : UIView
+DV_BaseCell : UITableViewCell
+DV_DataCell : UITableViewCell
+DV_ListView : UIView
+DV_ProfileController : DV_MainDelegateController
+DV_HeaderPermissionController : DV_MainDelegateController
+DV_AvatarController : DV_MainDelegateController
+DV_ReleaseView : UIView
+DV_AnalyzerMomentCell : UICollectionViewCell
+DV_CurrentUserController : DV_MainDelegateController
+DV_EditNewsController : DV_MainDelegateController
+DV_MessageMessageController : DV_MainDelegateController
+DV_VideoController : DV_MainDelegateController
+DV_BlackLaunchCell : UITableViewCell
+DV_BaseView : UIView
+DV_GuideSkillCell : UITableViewCell
+DV_CurrentCell : UITableViewCell
+DV_PermissionReleaseController : DV_MainDelegateController
+DV_InfoController : DV_MainDelegateController
+DV_SkillController : DV_MainDelegateController
+DV_MessageEditView : UIView
+DV_LaunchView : UIView
+DV_NewsCommentView : UIView
+DV_PoseUserCell : UITableViewCell
+DV_MenuEditCell : UITableViewCell
+DV_MainController : DV_MainDelegateController
+DV_ScreenGuideController : DV_MainDelegateController
+DV_PersonController : DV_MainDelegateController
+DV_CommentHistoryController : DV_MainDelegateController
+DV_SkillPersonController : DV_MainDelegateController
+DV_NewsMessageController : DV_MainDelegateController
+DV_BaseController : DV_MainDelegateController
+DV_MomentController : DV_MainDelegateController
+DV_GuideView : UICollectionReusableView
+DV_FriendsView : UIView
+DV_ReportCell : UICollectionViewCell
+DV_ReleaseLaunchView : UICollectionReusableView
+DV_EmptyEmptyCell : UICollectionViewCell
+DV_ContactCenterCell : UICollectionViewCell
+DV_ReleaseTabbarCell : UITableViewCell
+DV_VideoVideoCell : UITableViewCell
+DV_HomeListController : DV_MainDelegateController
+DV_ListController : DV_MainDelegateController
+DV_DelegateController : DV_MainDelegateController
+DV_PoseView : UIView
+AppDelegate : UIResponder
+DV_VideoMenuController : UIViewController
+DV_HeaderController : DV_MainDelegateController
+DV_Media : UIView
+DV_RegisterReportController : UITabBarController
+DV_MainDelegateController : UIViewController
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改Assets图片资源。。。。。。。
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: presentVideoPicker
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: startAnalysis
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: cancelAnalysis
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: handleAnalysisTimeout
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: clickUploadButton
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: setupUI
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: handleSelectedVideo
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: updateVideoCover
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: clickBackButton
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: setupActions
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: handleAnalysisCompletion
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController]    函数名称: videoThumbnail
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController]    函数名称: loadData
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController]    函数名称: setupUI
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController]    函数名称: setupTableHeaderView
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController]    函数名称: showUltimateEventDetail
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController]    函数名称: showEventDetail
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController]    函数名称: updateTableHeaderViewLayoutIfNeeded
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController]    函数名称: makeInfoRow
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController]    函数名称: setupActions
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController]    函数名称: clickBackButton
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController]    函数名称: configureContent
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController]    函数名称: setupUI
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView]    函数名称: aiCardTapped
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView]    函数名称: setupUI
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView]    函数名称: setupActions
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView]    函数名称: skillCardTapped
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView]    函数名称: ultimateTapped
+文件: [旧 FS_HomeEventCell <--> 新 DV_BaseCell]    函数名称: configure
+文件: [旧 FS_HomeEventCell <--> 新 DV_BaseCell]    函数名称: setupActions
+文件: [旧 FS_HomeEventCell <--> 新 DV_BaseCell]    函数名称: checkButtonTapped
+文件: [旧 FS_HomeEventCell <--> 新 DV_BaseCell]    函数名称: setupUI
+文件: [旧 FS_SkillCell <--> 新 DV_DataCell]    函数名称: setupUI
+文件: [旧 FS_SkillCell <--> 新 DV_DataCell]    函数名称: configure
+文件: [旧 FS_EventInfoRowView <--> 新 DV_ListView]    函数名称: setupUI
+文件: [旧 FS_EventInfoRowView <--> 新 DV_ListView]    函数名称: configure
+文件: [旧 FS_SkillVC <--> 新 DV_ProfileController]    函数名称: setupUI
+文件: [旧 FS_SkillVC <--> 新 DV_ProfileController]    函数名称: clickBackButton
+文件: [旧 FS_SkillVC <--> 新 DV_ProfileController]    函数名称: loadData
+文件: [旧 FS_SkillVC <--> 新 DV_ProfileController]    函数名称: setupActions
+文件: [旧 FS_SkillDetailVC <--> 新 DV_HeaderPermissionController]    函数名称: clickBackButton
+文件: [旧 FS_SkillDetailVC <--> 新 DV_HeaderPermissionController]    函数名称: setupActions
+文件: [旧 FS_SkillDetailVC <--> 新 DV_HeaderPermissionController]    函数名称: setupUI
+文件: [旧 FS_SkillDetailVC <--> 新 DV_HeaderPermissionController]    函数名称: configureContent
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: playVideo
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: openReportComment
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: updateCurrentPlayingIndexFromScroll
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: refreshComments
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: showCommentPopup
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: pauseCurrentVideo
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: handleSendComment
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: showDeleteCommentConfirmation
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: loadData
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: handleCommentMoreAction
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: updateItemSizeIfNeeded
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: setupUI
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: addButtonTapped
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: setupActions
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: dismissCommentPopup
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: openReport
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: handleMoreAction
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: showDeleteConfirmation
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: toggleLike
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController]    函数名称: showPersonPage
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView]    函数名称: setupUI
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView]    函数名称: setupActions
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView]    函数名称: closeTapped
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView]    函数名称: scrollToBottom
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView]    函数名称: appendComment
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView]    函数名称: configure
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: toMomentModel
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: moreTapped
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: setupUI
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: setupActions
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: commentTapped
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: likeTapped
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: avatarTapped
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: configure
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: updateLikeState
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: removePlayer
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell]    函数名称: setupPlayer
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController]    函数名称: clickBackButton
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController]    函数名称: setupActions
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController]    函数名称: setupUI
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController]    函数名称: loadData
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController]    函数名称: toggleFollowState
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: scrollToBottom
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: setupUI
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: clickBackButton
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: reloadMessages
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: handleSendMessage
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: clickMoreButton
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: handleVideoCall
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: blockCurrentUser
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController]    函数名称: setupActions
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController]    函数名称: reloadChatHistory
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController]    函数名称: setupUI
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController]    函数名称: setupActions
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController]    函数名称: clickRequestButton
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController]    函数名称: removeChatHistory
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: setupCamera
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: updateCameraState
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: setupUI
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: stopCamera
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: micTapped
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: reverseTapped
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: captureDevice
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: setupActions
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: updateMicState
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: cameraTapped
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: switchCamera
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: hangUpTapped
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: configureRemoteUser
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController]    函数名称: clickBackButton
+文件: [旧 FS_ChatMessageCell <--> 新 DV_BlackLaunchCell]    函数名称: configure
+文件: [旧 FS_ChatMessageCell <--> 新 DV_BlackLaunchCell]    函数名称: setupUI
+文件: [旧 FS_ChatRoomHeaderView <--> 新 DV_BaseView]    函数名称: setupActions
+文件: [旧 FS_ChatRoomHeaderView <--> 新 DV_BaseView]    函数名称: videoTapped
+文件: [旧 FS_ChatRoomHeaderView <--> 新 DV_BaseView]    函数名称: setupUI
+文件: [旧 FS_ChatRoomHeaderView <--> 新 DV_BaseView]    函数名称: configure
+文件: [旧 FS_ChatHistoryCell <--> 新 DV_GuideSkillCell]    函数名称: configure
+文件: [旧 FS_ChatHistoryCell <--> 新 DV_GuideSkillCell]    函数名称: setupUI
+文件: [旧 FS_ApplyCell <--> 新 DV_CurrentCell]    函数名称: configure
+文件: [旧 FS_ApplyCell <--> 新 DV_CurrentCell]    函数名称: setupUI
+文件: [旧 FS_ApplyCell <--> 新 DV_CurrentCell]    函数名称: setupActions
+文件: [旧 FS_ApplyCell <--> 新 DV_CurrentCell]    函数名称: actionTapped
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: loadData
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: addButtonTapped
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: setupUI
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: setupActions
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: showDeleteConfirmation
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: handleMoreAction
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: showPersonPage
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: toggleLike
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController]    函数名称: openReport
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: applyReleaseTypeUI
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: setupUI
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: setupActions
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: clickBackButton
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: clickAddPhotoButton
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: updateAddPhotoButton
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: handleSelectedVideo
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: videoThumbnail
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: clickReleaseButton
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController]    函数名称: updatePlaceholderVisibility
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: setupUI
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: updateTableHeaderViewLayoutIfNeeded
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: clickBackButton
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: reloadComments
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: setupActions
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: handleSendComment
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: setupTableHeaderView
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: openReportComment
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: handleCommentMoreAction
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController]    函数名称: showDeleteCommentConfirmation
+文件: [旧 FS_MomentHeaderView <--> 新 DV_MessageEditView]    函数名称: setupUI
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView]    函数名称: updateLikeAvatars
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView]    函数名称: setupUI
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView]    函数名称: configure
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView]    函数名称: loadAvatarImage
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView]    函数名称: loadMomentImage
+文件: [旧 FS_MomentDetailInputView <--> 新 DV_NewsCommentView]    函数名称: setupUI
+文件: [旧 FS_MomentDetailInputView <--> 新 DV_NewsCommentView]    函数名称: setupActions
+文件: [旧 FS_MomentDetailInputView <--> 新 DV_NewsCommentView]    函数名称: sendButtonTapped
+文件: [旧 FS_MomentCommentCell <--> 新 DV_PoseUserCell]    函数名称: moreTapped
+文件: [旧 FS_MomentCommentCell <--> 新 DV_PoseUserCell]    函数名称: setupActions
+文件: [旧 FS_MomentCommentCell <--> 新 DV_PoseUserCell]    函数名称: setupUI
+文件: [旧 FS_MomentCommentCell <--> 新 DV_PoseUserCell]    函数名称: configure
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: configure
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: setupActions
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: loadAvatarImage
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: likeTapped
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: updateLikeAvatars
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: setupUI
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: avatarTapped
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: loadMomentImage
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell]    函数名称: moreTapped
+文件: [旧 FS_ContactVC <--> 新 DV_MainController]    函数名称: clickCopyButton
+文件: [旧 FS_ContactVC <--> 新 DV_MainController]    函数名称: clickBackButton
+文件: [旧 FS_ContactVC <--> 新 DV_MainController]    函数名称: setupUI
+文件: [旧 FS_ContactVC <--> 新 DV_MainController]    函数名称: setupActions
+文件: [旧 FS_ContactVC <--> 新 DV_MainController]    函数名称: clickEmail
+文件: [旧 FS_ContactVC <--> 新 DV_MainController]    函数名称: copyEmailToClipboard
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController]    函数名称: loadData
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController]    函数名称: setupActions
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController]    函数名称: setupUI
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController]    函数名称: clickBackButton
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController]    函数名称: toggleFollowState
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: setupUI
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: makeTextField
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: nameTextChanged
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: clickBackButton
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: loadData
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: clickAreaClearButton
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: clickNameClearButton
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: areaTextChanged
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: setupActions
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: clickEditAvatarButton
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: makeClearButton
+文件: [旧 FS_EditVC <--> 新 DV_PersonController]    函数名称: clickReviseButton
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: setupUI
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: setupTableHeaderView
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: blockCurrentUser
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: updateCurrentUserUI
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: loadData
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: openVideoRoom
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: clickBackButton
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: updateTableHeaderViewLayoutIfNeeded
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: clickMoreButton
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: refreshHeaderFollowState
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: openChatRoom
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: setupActions
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: showDeleteConfirmation
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: toggleLike
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: openReport
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController]    函数名称: handleMoreAction
+文件: [旧 FS_ReportVC <--> 新 DV_SkillPersonController]    函数名称: clickConfirmButton
+文件: [旧 FS_ReportVC <--> 新 DV_SkillPersonController]    函数名称: setupUI
+文件: [旧 FS_ReportVC <--> 新 DV_SkillPersonController]    函数名称: clickBackButton
+文件: [旧 FS_ReportVC <--> 新 DV_SkillPersonController]    函数名称: setupActions
+文件: [旧 FS_BlackListVC <--> 新 DV_NewsMessageController]    函数名称: loadData
+文件: [旧 FS_BlackListVC <--> 新 DV_NewsMessageController]    函数名称: clickBackButton
+文件: [旧 FS_BlackListVC <--> 新 DV_NewsMessageController]    函数名称: setupActions
+文件: [旧 FS_BlackListVC <--> 新 DV_NewsMessageController]    函数名称: setupUI
+文件: [旧 FS_BlackListVC <--> 新 DV_NewsMessageController]    函数名称: removeBlackListItem
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: loadProducts
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: reloadBalanceHeader
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: setupActions
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: setupUI
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: purchaseItem
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: priceText
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController]    函数名称: clickBackButton
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController]    函数名称: setupUI
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController]    函数名称: loadData
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController]    函数名称: presentDeleteAccountAlert
+文件: [旧 FS_ShopHeaderView <--> 新 DV_GuideView]    函数名称: applyAspectRatio
+文件: [旧 FS_ShopHeaderView <--> 新 DV_GuideView]    函数名称: configure
+文件: [旧 FS_ShopHeaderView <--> 新 DV_GuideView]    函数名称: setupUI
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: loadAvatarImage
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: configure
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: updateActionViewsVisibility
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: updateFollowButton
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: followTapped
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: videoTapped
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: setupActions
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: setupUI
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: chatTapped
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: makeStatsText
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView]    函数名称: applyAspectRatio
+文件: [旧 FS_FriendListCell <--> 新 DV_ReportCell]    函数名称: configure
+文件: [旧 FS_FriendListCell <--> 新 DV_ReportCell]    函数名称: setupActions
+文件: [旧 FS_FriendListCell <--> 新 DV_ReportCell]    函数名称: setupUI
+文件: [旧 FS_FriendListCell <--> 新 DV_ReportCell]    函数名称: actionTapped
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: makeStatsText
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: setupActions
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: configure
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: loadAvatarImage
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: setupUI
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: fansTapped
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: followTapped
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: coinShopTapped
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView]    函数名称: applyAspectRatio
+文件: [旧 FS_ShopCell <--> 新 DV_EmptyEmptyCell]    函数名称: setupActions
+文件: [旧 FS_ShopCell <--> 新 DV_EmptyEmptyCell]    函数名称: setupUI
+文件: [旧 FS_ShopCell <--> 新 DV_EmptyEmptyCell]    函数名称: configure
+文件: [旧 FS_ShopCell <--> 新 DV_EmptyEmptyCell]    函数名称: buyTapped
+文件: [旧 FS_ShopCell <--> 新 DV_EmptyEmptyCell]    函数名称: updateSelectionAppearance
+文件: [旧 FS_ProfileMenuCell <--> 新 DV_ContactCenterCell]    函数名称: setupUI
+文件: [旧 FS_ProfileMenuCell <--> 新 DV_ContactCenterCell]    函数名称: configure
+文件: [旧 FS_ReportCell <--> 新 DV_ReleaseTabbarCell]    函数名称: setupUI
+文件: [旧 FS_ReportCell <--> 新 DV_ReleaseTabbarCell]    函数名称: configure
+文件: [旧 FS_BlackListCell <--> 新 DV_VideoVideoCell]    函数名称: cancelTapped
+文件: [旧 FS_BlackListCell <--> 新 DV_VideoVideoCell]    函数名称: setupActions
+文件: [旧 FS_BlackListCell <--> 新 DV_VideoVideoCell]    函数名称: configure
+文件: [旧 FS_BlackListCell <--> 新 DV_VideoVideoCell]    函数名称: setupUI
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: switchLoginType
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: clickPasswordShowButton
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: configureAppearance
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: clickBackButton
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: clickActionButton
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: setupUI
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: mailTextChanged
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: clickMailClearButton
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: clickSwitchAccountButton
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController]    函数名称: setupActions
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: configureAgreementLabel
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: handleAgreementTap
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: characterIndex
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: clickSignButton
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: didTapPrivacyPolicy
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: clickCreateButton
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: clickAppleButton
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: setupUI
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController]    函数名称: didTapUserAgreement
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: areaTextChanged
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickBackButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: makeClearButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: setupActions
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: setupUI
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickAreaClearButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickAvatarButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickAgeClearButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickConfirmButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickNameClearButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: nameTextChanged
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: makeTextField
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: ageTextChanged
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController]    函数名称: clickSignInButton
+文件: [旧 UIColor+Extension <--> 新 DV_BaseBlack]    函数名称: hex
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: purchase
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: verify
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: displayPrice
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: markTransactionProcessed
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: deliverCoins
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: handleTransactionUpdate
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: hasProcessedTransaction
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: loadProducts
+文件: [旧 FS_IAPManager <--> 新 DV_Person]    函数名称: startListeningForTransactions
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: analyze
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: performAnalysis
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: loadDuration
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: copyCGImage
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: detectPose
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: elbowAngle
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: shoulderSpread
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: jointPoint
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: calculateScore
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput]    函数名称: buildTips
+文件: [旧 FS_MediaPermission <--> 新 DV_Shop]    函数名称: requestVideoCallPermissions
+文件: [旧 FS_MediaPermission <--> 新 DV_Shop]    函数名称: requestAccess
+文件: [旧 FS_MediaPermission <--> 新 DV_Shop]    函数名称: showSettingsAlert
+文件: [旧 FS_NetworkManager <--> 新 DV_HistoryHistory]    函数名称: showLoadingIfNeeded
+文件: [旧 FS_NetworkManager <--> 新 DV_HistoryHistory]    函数名称: dismissLoadingIfNeeded
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: chatSessions
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: persistedUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: appleProfile
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: restoreLoginStateIfNeeded
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loginWithApple
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: login
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: logout
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: deleteAccount
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: updateCurrentUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: refreshCurrentUserStats
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: addCoins
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveAvatarImage
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveAvatarImage
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: publishPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: resolvedUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: isMutuallyFollowing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: followingEmails
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: followerEmails
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: followFriendList
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: fansFriendList
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: friendListModel
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: setFollowing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: blackListUsers
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: isBlacklisted
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: addToBlackList
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: removeFromBlackList
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: blockUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loadBlackListEmails
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveBlackListEmails
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: updateFollowStats
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loadFollowRelations
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveFollowRelations
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: chatMessages
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: appendChatMessage
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: deleteChatSession
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loadChatSessions
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveChatSessions
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: makeChatMessage
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: formattedChatDate
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: resolvedImagePost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: shouldShowImagePost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: resolvedVideoPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: shouldShowVideoPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: deleteCurrentUserImagePost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: reportImagePost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: deleteCurrentUserVideoPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: reportVideoPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: deleteComment
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: reportComment
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: appendComment
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: toggleImagePostLike
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: toggleVideoPostLike
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: baseImagePost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: baseVideoPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: postInteractionKey
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: resolvedPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: visibleCommentIndices
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: savePostComments
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loadPostInteraction
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: savePostInteraction
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: applyLocalUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: seedCoinsFingerprintKey
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: syncSeedCoinsIfNeeded
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: recomputeFollowStats
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: removeFollowRelations
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: removePostInteractions
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: clearPersistedData
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: deleteUserMedia
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: updateAppleProfile
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: resolveAppleEmail
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: resolveAppleName
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: appleEmail
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loadAppleProfile
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveAppleProfile
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: loadPersistedLocalUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: savePersistedLocalUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: savePersistedUser
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveUserImage
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: saveUserVideo
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: userMediaFolderURL
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: relativeUserMediaPath
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: sanitizedEmail
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: switchToHome
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: switchToGuide
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: switchToWelcome
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: setRootViewController
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: emptyPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: makeInitialsAvatarImage
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: makeLocalPost
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: makeComments
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: makeCommentTexts
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: makePostModel
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: avatarURL
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: momentURL
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: videoURL
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents]    函数名称: momentImage
+文件: [旧 FS_GuideVC <--> 新 DV_HeaderController]    函数名称: updatePage
+文件: [旧 FS_GuideVC <--> 新 DV_HeaderController]    函数名称: clickBackButton
+文件: [旧 FS_GuideVC <--> 新 DV_HeaderController]    函数名称: clickNextButton
+文件: [旧 FS_GuideVC <--> 新 DV_HeaderController]    函数名称: setupActions
+文件: [旧 FS_GuideVC <--> 新 DV_HeaderController]    函数名称: setupUI
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: setSelectedIndex
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: setupUI
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: tabButtonTapped
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: setupViewControllers
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: setCustomTabBarHidden
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: setupCustomTabBar
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController]    函数名称: updateChildSafeAreaInsets
+文件: [旧 FS_BaseVC <--> 新 DV_MainDelegateController]    函数名称: updateCustomTabBarVisibility
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController] 局部变量: headerView -> register_nView
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController] 局部变量: event -> section
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController] 局部变量: event -> section
+文件: [旧 FS_HomeVC <--> 新 DV_EventsShopController] 局部变量: width -> background
+文件: [旧 FS_ChatMessageCell <--> 新 DV_BlackLaunchCell] 局部变量: isIncoming -> history
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: indexPath -> with_gi
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: authorEmail -> analysis
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: reportVC -> template_8Controller
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: centerY -> photo
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: centerPoint -> size_mt
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: post -> hang
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: visibleComments -> home
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: popup -> presentation
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: parentView -> thumbnailView
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: bottomInset -> check
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: cell -> desCell
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: trimmedText -> defaults
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: index -> interactions
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: currentUser -> tips
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: comment -> all
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: alert -> k_alpha
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: authorEmail -> analysis
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: videos -> loading
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: currentEmail -> updated
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: comment -> all
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: authorEmail -> analysis
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: isOwnComment -> date
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: layout -> rhs
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: currentLocalUser -> restore
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: reportVC -> template_8Controller
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: video -> file
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: isOwnPost -> photos
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: alert -> k_alpha
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: model -> room
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: authorEmail -> analysis
+文件: [旧 FS_VideoVC <--> 新 DV_AvatarController] 局部变量: localUser -> pool
+文件: [旧 FS_ShopCell <--> 新 DV_EmptyEmptyCell] 局部变量: buyImageName -> indices
+文件: [旧 FS_NetworkManager <--> 新 DV_HistoryHistory] 局部变量: configuration -> progress
+文件: [旧 FS_NetworkManager <--> 新 DV_HistoryHistory] 局部变量: task -> safe
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: targetEmail -> throwing
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: user -> posts
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: width -> background
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: headerView -> register_nView
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: targetEmail -> throwing
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: newFollowingState -> gnews
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: height -> error
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: targetName -> y_title
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: alert -> k_alpha
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: user -> posts
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: alert -> k_alpha
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: authorEmail -> analysis
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: reportVC -> template_8Controller
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: moment -> origin
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: isOwnPost -> photos
+文件: [旧 FS_PersonVC <--> 新 DV_CommentHistoryController] 局部变量: moment -> origin
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: text -> resolve
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: attributedText -> details
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: followTap -> path
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: fansTap -> unread
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: attributes -> cell
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: targetWidth -> gnews
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: targetSize -> g_count
+文件: [旧 FS_ProfileHeaderView <--> 新 DV_ReleaseLaunchView] 局部变量: fittingHeight -> result
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: moments -> error
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: currentEmail -> updated
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: alert -> k_alpha
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: moment -> origin
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: isOwnPost -> photos
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: localUser -> pool
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: authorEmail -> analysis
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: currentLocalUser -> restore
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: reportVC -> template_8Controller
+文件: [旧 FS_MomentVC <--> 新 DV_PermissionReleaseController] 局部变量: moment -> origin
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: imageName -> sample
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: view -> likesView
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: layout -> rhs
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: targetEmail -> throwing
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: newFollowingState -> gnews
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: totalHorizontalInset -> mcopy_wa
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: itemWidth -> person
+文件: [旧 FS_FriendsListVC <--> 新 DV_ScreenGuideController] 局部变量: itemHeight -> elbow
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView] 局部变量: imageView -> fittingView
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView] 局部变量: avatars -> password
+文件: [旧 FS_MomentDetailHeaderView <--> 新 DV_LaunchView] 局部变量: containerWidth -> dateK
+文件: [旧 FS_VideoCommentView <--> 新 DV_ReleaseView] 局部变量: indexPath -> with_gi
+文件: [旧 FS_BaseVC <--> 新 DV_MainDelegateController] 局部变量: navigationController -> modalController
+文件: [旧 FS_BaseVC <--> 新 DV_MainDelegateController] 局部变量: isSecondaryPage -> template_cj
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: width -> background
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: headerView -> register_nView
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: height -> error
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: post -> hang
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: trimmedText -> defaults
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: currentUser -> tips
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: comment -> all
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: indexPath -> with_gi
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: reportVC -> template_8Controller
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: comment -> all
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: isOwnComment -> date
+文件: [旧 FS_MomentDetailVC <--> 新 DV_SkillController] 局部变量: alert -> k_alpha
+文件: [旧 FS_BlackListVC <--> 新 DV_NewsMessageController] 局部变量: targetEmail -> throwing
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController] 局部变量: email -> sentence
+文件: [旧 FS_LoginVC <--> 新 DV_HomeListController] 局部变量: password -> name
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: label -> cellLabel
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: attributedText -> details
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: text -> resolve
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: location -> locationP
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: index -> interactions
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: userAgreementRange -> locationU
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: privacyPolicyRange -> hang
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: textStorage -> area
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: layoutManager -> agreement
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: textContainer -> path
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: glyphIndex -> events
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: provider -> call
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: request -> target
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: controller -> likedController
+文件: [旧 FS_WelcomeVC <--> 新 DV_ListController] 局部变量: agreementTap -> ext
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: configuration -> progress
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: picker -> cancel
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: asset -> bar
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: generator -> auth
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: caption -> menu
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: mediaType -> cost
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: success -> password
+文件: [旧 FS_ReleaseVC <--> 新 DV_InfoController] 局部变量: destinationURL -> target
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: configuration -> progress
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: picker -> cancel
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: timeoutItem -> alreadyItem
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: cardTap -> next
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: asset -> bar
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: generator -> auth
+文件: [旧 FS_AnalysisVC <--> 新 DV_ApplyController] 局部变量: destinationURL -> target
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: textField -> scroll
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: user -> posts
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: configuration -> progress
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: picker -> cancel
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: button -> playingButton
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: age -> data
+文件: [旧 FS_EditVC <--> 新 DV_PersonController] 局部变量: updatedUser -> templates
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: item -> uploadItem
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: success -> password
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: layout -> rhs
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: item -> uploadItem
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: headerView -> register_nView
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: width -> background
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: headerView -> register_nView
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: height -> error
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: totalHorizontalInset -> mcopy_wa
+文件: [旧 FS_ShopVC <--> 新 DV_BaseController] 局部变量: itemWidth -> person
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView] 局部变量: imageName -> sample
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView] 局部变量: text -> resolve
+文件: [旧 FS_PersonHeaderView <--> 新 DV_FriendsView] 局部变量: attributedText -> details
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: asset -> bar
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: generator -> auth
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: sampleCount -> edit
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: sampleTimes -> value
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: leftElbowAngles -> create
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: rightElbowAngles -> g_position
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: shoulderSpreads -> normal
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: detectedFrameCount -> amount
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: leftMax -> guide
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: rightMax -> stack
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: throwingElbowMax -> http
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: averageShoulderSpread -> mail
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: score -> response
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: tips -> avatars
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: details -> components
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: keys -> bar1
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: semaphore -> analyzer
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: resolvedDuration -> shop
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: seconds -> target
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: track -> change
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: progress -> remote
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: seconds -> target
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: request -> targetQ
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: handler -> zcopy_5
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: shoulderJoint -> generator
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: elbowJoint -> page
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: wristJoint -> spreads
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: elbow -> sample
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: wrist -> r_height
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: rightShoulder -> updates
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: ba -> shoulder
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: bc -> config
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: dot -> p_layer
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: magnitude -> reuse
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: cosine -> switch_fq
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: score -> response
+文件: [旧 FS_VideoPoseAnalyzer <--> 新 DV_TabbarInput] 局部变量: tips -> avatars
+文件: [旧 FS_FriendListCell <--> 新 DV_ReportCell] 局部变量: isFollowing -> product
+文件: [旧 FS_FriendListCell <--> 新 DV_ReportCell] 局部变量: buttonImageName -> skill
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController] 局部变量: targetEmail -> throwing
+文件: [旧 FS_ApplyVC <--> 新 DV_CurrentUserController] 局部变量: newFollowingState -> gnews
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell] 局部变量: user -> posts
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell] 局部变量: post -> hang
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell] 局部变量: imageView -> fittingView
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell] 局部变量: tap -> glyph
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell] 局部变量: avatars -> password
+文件: [旧 FS_MomentCell <--> 新 DV_MenuEditCell] 局部变量: containerWidth -> dateK
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController] 局部变量: indexPath -> with_gi
+文件: [旧 FS_ChatRoomVC <--> 新 DV_EditNewsController] 局部变量: alert -> k_alpha
+文件: [旧 FS_GuideVC <--> 新 DV_HeaderController] 局部变量: imageName -> sample
+文件: [旧 FS_ReportCell <--> 新 DV_ReleaseTabbarCell] 局部变量: image -> sessionsImage
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: layout -> rhs
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: headerView -> register_nView
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: alert -> k_alpha
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: imageName -> sample
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: width -> background
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: headerView -> register_nView
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: height -> error
+文件: [旧 FS_ProfileVC <--> 新 DV_MomentController] 局部变量: itemW -> red
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController] 局部变量: button -> playingButton
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController] 局部变量: updates -> tap
+文件: [旧 FS_TabbarVC <--> 新 DV_RegisterReportController] 局部变量: bottomInset -> check
+文件: [旧 FS_SkillVC <--> 新 DV_ProfileController] 局部变量: skill -> marceline
+文件: [旧 FS_ContactVC <--> 新 DV_MainController] 局部变量: emailTap -> i_alpha
+文件: [旧 FS_MediaPermission <--> 新 DV_Shop] 局部变量: alert -> k_alpha
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell] 局部变量: user -> posts
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell] 局部变量: post -> hang
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell] 局部变量: avatarTap -> point
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell] 局部变量: playerItem -> indexItem
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell] 局部变量: player -> constraint
+文件: [旧 FS_VideoCell <--> 新 DV_AnalyzerMomentCell] 局部变量: playerLayer -> enabled
+文件: [旧 FS_ApplyCell <--> 新 DV_CurrentCell] 局部变量: buttonImageName -> skill
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: defaults -> last
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: email -> sentence
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: trimmedIdentifier -> config
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: resolvedEmail -> cancel
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: resolvedName -> report
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: avatarImageName -> partner
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: avatarImage -> interval_4Image
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: user -> posts
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: localUser -> pool
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: trimmedEmail -> controller
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: defaults -> last
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: email -> sentence
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: avatarImageName -> partner
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: trimmedEmail -> controller
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: trimmedEmail -> controller
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: user -> posts
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: localUser -> pool
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: newPost -> sessions
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: resourceName -> attributes
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: videoResourceName -> items
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: coverResourceName -> template_a
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: user -> posts
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: user -> posts
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: follower -> response
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: currentEmail -> updated
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: saved -> navigation
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: target -> section
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: saved -> navigation
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: following -> hint
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: alreadyFollowing -> h_manager
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: emails -> raw
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: emails -> raw
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: data -> spacing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: emails -> raw
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: data -> spacing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: relations -> normal
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: lhsDate -> joint
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: rhsDate -> transactions
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: trimmedContent -> comment
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: avatarImageName -> partner
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: message -> detail
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: sessions -> capture
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: session -> analyzing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: sessions -> capture
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: data -> spacing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: sessions -> capture
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: data -> spacing
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: formatter -> resource
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: basePost -> username
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: basePost -> username
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: interaction -> fingerprint
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: interaction -> fingerprint
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: indices -> semaphore
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: realIndex -> placeholder
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: indices -> semaphore
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: realIndex -> placeholder
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: avatar -> appearance
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: post -> hang
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: interaction -> fingerprint
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: interactions -> cosine
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: interactions -> cosine
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: saved -> navigation
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: mergedUser -> commentT
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: defaults -> last
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: fingerprint -> password
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: storedFingerprint -> age
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: relations -> normal
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: interactions -> cosine
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: hadAvatar -> follower
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: defaults -> last
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: profile -> merged
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: formatter -> resource
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: name -> back
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: formatter -> resource
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: name -> back
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: profile -> merged
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: persisted -> logged
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: email -> sentence
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: baseLocalUser -> lan
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: existing -> keys
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: persisted -> logged
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: folderURL -> normal8
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: fileName -> name
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: fileURL -> click
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: folderURL -> normal8
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: ext -> price
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: fileName -> name
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: destinationURL -> target
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: documentsURL -> blue
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: welcomeNavigationController -> esmeController
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: initials -> post
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: displayText -> menu
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: renderer -> des
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: attributes -> cell
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: textSize -> privacy
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: origin -> verify
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: commenters -> top
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: commentCount -> analyzingA
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: commentTexts -> list
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: trimmedCaption -> shoulder
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: firstSentence -> item
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: topic -> task
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: templates -> add
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: templateIndex -> build
+文件: [旧 FS_CurrentUser <--> 新 DV_EventsEvents] 局部变量: fileURL -> click
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: session -> analyzing
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: camera -> seed
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: cameraInput -> area
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: microphone -> i_alpha
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: microphoneInput -> snews
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: previewLayer -> real
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: nextPosition -> selected
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: newDevice -> age
+文件: [旧 FS_VideoRoomVC <--> 新 DV_VideoController] 局部变量: newInput -> own
+文件: [旧 FS_IAPManager <--> 新 DV_Person] 局部变量: transaction -> mail
+文件: [旧 FS_IAPManager <--> 新 DV_Person] 局部变量: ids -> sign
+文件: [旧 FS_IAPManager <--> 新 DV_Person] 局部变量: productId -> duration
+文件: [旧 FS_IAPManager <--> 新 DV_Person] 局部变量: coins -> hinitials
+文件: [旧 FS_IAPManager <--> 新 DV_Person] 局部变量: transaction -> mail
+文件: [旧 FS_IAPManager <--> 新 DV_Person] 局部变量: products -> add
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: button -> playingButton
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: configuration -> progress
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: picker -> cancel
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: age -> data
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: trimmedName -> info
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: name -> back
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: textField -> scroll
+文件: [旧 FS_InfoVC <--> 新 DV_DelegateController] 局部变量: savedPath -> reverse
+文件: [旧 FS_MomentDetailInputView <--> 新 DV_NewsCommentView] 局部变量: text -> resolve
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController] 局部变量: rowView -> unreadView
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController] 局部变量: iconView -> inputView
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController] 局部变量: config -> register_t
+文件: [旧 FS_EventsDetailVC <--> 新 DV_ContactController] 局部变量: label -> cellLabel
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController] 局部变量: partnerEmail -> content
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController] 局部变量: deleteAction -> area
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController] 局部变量: configuration -> progress
+文件: [旧 FS_ChatVC <--> 新 DV_MessageMessageController] 局部变量: history -> max_g
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView] 局部变量: skillTap -> suffix
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView] 局部变量: aiTap -> shoulder
+文件: [旧 FS_HomeHeaderView <--> 新 DV_SkillProfileView] 局部变量: ultimateTap -> lhs
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动随机生成属性并插入头文件和源文件。。。。。。。
+[old: ViewController -> new: DV_CenterController] insert  var item_max: Double? = 0.0
+var tab_min: Double? = 0.0
+var displayMax: Double? = 0.0
+var timeoutAlreadyCell_list: [Any]?
+
+[old: FS_AnalysisVC -> new: DV_ApplyController] insert  var max_62: Float? = 0.0
+private var locationInitialsStartArr: [Any]?
+var viewsSpace: Float? = 0.0
+
+[old: FS_HomeVC -> new: DV_EventsShopController] insert  private var modityProvider_str: String!
+var controllers_min: Double? = 0.0
+private var type_mControllersMap: [String: Any]!
+
+[old: FS_EventsDetailVC -> new: DV_ContactController] insert  var reverse_k: Int? = 0
+var loggedSignArr: [Any]!
+
+[old: FS_HomeHeaderView -> new: DV_SkillProfileView] insert  var enabledLeftResolve_dict: [String: Any]?
+private var resultCaptionDismiss_list: [Any]!
+
+[old: FS_HomeEventCell -> new: DV_BaseCell] insert  var range_idx: Int? = 0
+var mark_offset: Double? = 0
+
+[old: FS_HomeEventCell -> new: DV_BaseCell] insert  var magnitude_flag: Int? = 0
+var rightRedCompletionDict: [String: Any]!
+var spacingUsername_dictionary: [String: Any]!
+
+[old: FS_SkillCell -> new: DV_DataCell] insert  private var playerBackgroundProviderDictionary: [String: Any]!
+private var default_spAnalysis_string: String!
+private var isLhs: Bool? = false
+
+[old: FS_EventInfoRowView -> new: DV_ListView] insert  var storageSpace: Double? = 0.0
+var sel_min: Double? = 0.0
+private var updatedSpace: Float? = 0.0
+
+[old: FS_SkillVC -> new: DV_ProfileController] insert  var pageResolved_Array: [Any]!
+var sampleAnalysisAlpha_string: String!
+var momentsPhotoCancelStr: String?
+private var has_Row: Bool? = false
+
+[old: FS_SkillDetailVC -> new: DV_HeaderPermissionController] insert  var login_offset: Float? = 0.0
+var k_alpha: Int? = 0
+var friend_xf: Float? = 0.0
+private var existingTag: Int? = 0
+
+[old: FS_VideoVC -> new: DV_AvatarController] insert  private var inputMark: Int? = 0
+private var placeholderPadding: Double? = 0.0
+private var commentsMax: Double? = 0.0
+
+[old: FS_VideoCommentView -> new: DV_ReleaseView] insert  private var originDimMessageDictionary: [String: Any]?
+var presentationAverageConfirmDictionary: [String: Any]!
+var verifyPadding: Double? = 0.0
+private var visible_offset: Double? = 0.0
+
+[old: FS_VideoCell -> new: DV_AnalyzerMomentCell] insert  var analyzerIdx: Int? = 0
+var configurationOffset: Double? = 0
+
+[old: FS_VideoCell -> new: DV_AnalyzerMomentCell] insert  private var defaults_size: Double? = 0.0
+var captionRemoteDictionary: [String: Any]!
+var mockDataResult_list: [Any]?
+var o_position: Double? = 0.0
+
+[old: FS_ApplyVC -> new: DV_CurrentUserController] insert  var recentPickerString: String!
+private var canDefaults: Bool? = false
+private var hasRow: Bool? = false
+
+[old: FS_ChatRoomVC -> new: DV_EditNewsController] insert  private var mainSaveString: String!
+private var controlRhs_str: String!
+
+[old: FS_ChatVC -> new: DV_MessageMessageController] insert  var documentsComponentsDict: [String: Any]!
+private var glyphMax: Double? = 0.0
+
+[old: FS_VideoRoomVC -> new: DV_VideoController] insert  private var send_count: Int? = 0
+var configScreen_dictionary: [String: Any]!
+private var likesVideo_string: String!
+private var glyph_flag: Int? = 0
+
+[old: FS_ChatMessageCell -> new: DV_BlackLaunchCell] insert  var summaryRelative_str: String!
+var lastOffset: Float? = 0
+
+[old: FS_ChatMessageCell -> new: DV_BlackLaunchCell] insert  private var register_mn: Int? = 0
+private var videos_index: Int? = 0
+
+[old: FS_ChatRoomHeaderView -> new: DV_BaseView] insert  var edit_margin: Double? = 0
+var extMargin: Float? = 0
+var isTrack: Bool? = false
+var parentSize: Double? = 0
+
+[old: FS_ChatRoomHeaderView -> new: DV_BaseView] insert  var networkBaseMap: [String: Any]?
+var angleSafeList: [Any]?
+private var poolSize: Double? = 0.0
+
+[old: FS_ChatHistoryCell -> new: DV_GuideSkillCell] insert  var coinsMargin: Float? = 0
+var hasEsme: Bool? = false
+var fromSpace: Float? = 0
+var lan_padding: Float? = 0
+
+[old: FS_ChatHistoryCell -> new: DV_GuideSkillCell] insert  private var upload_offset: Double? = 0.0
+private var video_padding: Double? = 0.0
+var isOwn: Bool? = false
+
+[old: FS_ApplyCell -> new: DV_CurrentCell] insert  var pointMax: Double? = 0
+var result_margin: Double? = 0
+var persisted_index: Int? = 0
+
+[old: FS_ApplyCell -> new: DV_CurrentCell] insert  private var relationsFlag: Int? = 0
+private var textsMax: Double? = 0.0
+
+[old: FS_MomentVC -> new: DV_PermissionReleaseController] insert  private var attributedVisibilityTrimmed_Array: [Any]!
+private var photos_offset: Float? = 0.0
+var tableResponseWork_arr: [Any]!
+var baseSpace: Float? = 0.0
+
+[old: FS_ReleaseVC -> new: DV_InfoController] insert  private var has_Back: Bool? = false
+var followerIndex: Int? = 0
+private var whiteConfirmOwnString: String!
+private var tipsUploadFrame_rz_string: String?
+
+[old: FS_MomentDetailVC -> new: DV_SkillController] insert  var results_tag: Int? = 0
+var colorLoadingPrefix_pi_str: String!
+var mediaResultsHadDict: [String: Any]?
+
+[old: FS_MomentHeaderView -> new: DV_MessageEditView] insert  var secondaryWristSpreadString: String!
+var hasDefaults: Bool? = false
+var hadOffset: Double? = 0.0
+
+[old: FS_MomentDetailHeaderView -> new: DV_LaunchView] insert  private var countHomeTop_map: [String: Any]!
+var type_zh: Int? = 0
+var deletedNew_zShoulder_str: String!
+var confirmLoadingDefaultsArr: [Any]!
+
+[old: FS_MomentDetailInputView -> new: DV_NewsCommentView] insert  var marceline_min: Double? = 0.0
+var blue_size: Double? = 0.0
+
+[old: FS_MomentCommentCell -> new: DV_PoseUserCell] insert  var relative_min: Double? = 0
+var can_Unread: Bool? = false
+
+[old: FS_MomentCommentCell -> new: DV_PoseUserCell] insert  private var attributesCount: Int? = 0
+var aspectSpace: Double? = 0.0
+
+[old: FS_MomentCell -> new: DV_MenuEditCell] insert  var suffixMargin: Double? = 0
+var can_Feedback: Bool? = false
+var rawSize: Float? = 0
+
+[old: FS_MomentCell -> new: DV_MenuEditCell] insert  var shouldPartnerString: String?
+var productAge_str: String?
+var defaults_padding: Double? = 0.0
+
+[old: FS_ContactVC -> new: DV_MainController] insert  var fingerprintEventMap: [String: Any]?
+private var areaInteractionsArr: [Any]!
+
+[old: FS_FriendsListVC -> new: DV_ScreenGuideController] insert  var apple_d: Double? = 0.0
+var template_37Launch_str: String?
+private var bottomSuffixStr: String?
+private var selIntro_map: [String: Any]!
+
+[old: FS_EditVC -> new: DV_PersonController] insert  var folderMargin: Double? = 0.0
+private var managerMail_str: String!
+
+[old: FS_PersonVC -> new: DV_CommentHistoryController] insert  var storageMediaView_str: String!
+private var enbaleContent: Bool? = false
+
+[old: FS_ReportVC -> new: DV_SkillPersonController] insert  var revise_size: Float? = 0.0
+var enbaleShop: Bool? = false
+
+[old: FS_BlackListVC -> new: DV_NewsMessageController] insert  private var screenMin: Double? = 0.0
+private var lastPhotoRealStr: String!
+
+[old: FS_ShopVC -> new: DV_BaseController] insert  var reportedTrimmedArr: [Any]!
+var endNewsThumbnail_list: [Any]?
+var spacingSpace: Double? = 0.0
+
+[old: FS_ProfileVC -> new: DV_MomentController] insert  var mailEventString: String!
+private var detailLoginFileDictionary: [String: Any]?
+
+[old: FS_ShopHeaderView -> new: DV_GuideView] insert  private var summaryFallbackStr: String!
+var mockPath_string: String?
+
+[old: FS_PersonHeaderView -> new: DV_FriendsView] insert  var generatorPadding: Float? = 0.0
+var summary_min: Float? = 0.0
+private var playerBasePage_Array: [Any]?
+private var handlerContactList: [Any]?
+
+[old: FS_FriendListCell -> new: DV_ReportCell] insert  var credential_space: Double? = 0
+var skillPersistedStr: String?
+var password_margin: Float? = 0
+var baseVideosTapStr: String?
+
+[old: FS_FriendListCell -> new: DV_ReportCell] insert  private var urlSemaphoreTaskDictionary: [String: Any]!
+private var updatesDataPrice_string: String!
+
+[old: FS_ProfileHeaderView -> new: DV_ReleaseLaunchView] insert  var layerConfigStr: String?
+private var containerUpdated_string: String?
+
+[old: FS_ShopCell -> new: DV_EmptyEmptyCell] insert  var storedMin: Double? = 0
+var authorSpace: Float? = 0
+var has_Cancel: Bool? = false
+
+[old: FS_ShopCell -> new: DV_EmptyEmptyCell] insert  var publishPadding: Double? = 0.0
+private var i_layer: Double? = 0.0
+
+[old: FS_ProfileMenuCell -> new: DV_ContactCenterCell] insert  var throwingFolderProducts_arr: [Any]?
+private var anglesColorShared_dict: [String: Any]?
+var enbale_Value: Bool? = false
+
+[old: FS_ReportCell -> new: DV_ReleaseTabbarCell] insert  var followerOffset: Float? = 0.0
+private var rhsOutgoingImageArr: [Any]!
+private var customMax: Float? = 0.0
+
+[old: FS_BlackListCell -> new: DV_VideoVideoCell] insert  var isProduct: Bool? = false
+var provider_size: Double? = 0
+var can_Date: Bool? = false
+var password_space: Double? = 0
+
+[old: FS_BlackListCell -> new: DV_VideoVideoCell] insert  var relative_size: Double? = 0.0
+private var sessions_mark: Int? = 0
+
+[old: FS_LoginVC -> new: DV_HomeListController] insert  var progressPadding: Double? = 0.0
+var sessionOffset: Double? = 0.0
+
+[old: FS_WelcomeVC -> new: DV_ListController] insert  var relations_flag: Int? = 0
+private var showSize: Double? = 0.0
+
+[old: FS_InfoVC -> new: DV_DelegateController] insert  private var canMail: Bool? = false
+private var shopDesArr: [Any]?
+private var lastMin: Double? = 0.0
+private var icon_margin: Double? = 0.0
+
+[old: FS_IAPManager -> new: DV_Person] insert  private var reportedWelcome_string: String!
+var v_alpha: Bool? = false
+var usernameTrimmedDict: [String: Any]?
+
+[old: FS_VideoPoseAnalyzer -> new: DV_TabbarInput] insert  var tabbar_padding: Double? = 0
+var throwingCount: Int? = 0
+var http_max: Float? = 0
+var hasRow: Bool? = false
+
+[old: FS_VideoPoseAnalyzer -> new: DV_TabbarInput] insert  private var controller_min: Double? = 0.0
+private var green_space: Double? = 0.0
+private var analysisInteractions_string: String!
+private var hasDate: Bool? = false
+
+[old: FS_UserModel -> new: DV_Extension] insert  var dotOffset: Double? = 0
+var fitting_max: Double? = 0
+var allMax: Float? = 0
+
+[old: FS_PostModel -> new: DV_History] insert  var editTag: Int? = 0
+var followingTrimmed_string: String?
+var suffix_margin: Double? = 0
+
+[old: FS_PostModel -> new: DV_History] insert  var is_Green: Bool? = false
+var insets_max: Double? = 0
+
+[old: FS_NetworkManager -> new: DV_HistoryHistory] insert  private var costPadding: Double? = 0.0
+var resolved_margin: Double? = 0.0
+
+[old: FS_SkillData -> new: DV_ReportContact] insert  var likedBackPage_string: String!
+var docFlag: Int? = 0
+var destinationOffset: Double? = 0
+
+[old: FS_EmptyView -> new: DV_PoseView] insert  private var bubbleMargin: Double? = 0.0
+private var poolPadding: Double? = 0.0
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var analyzing_q: Double? = 0
+var send_offset: Double? = 0
+var horizontalMargin: Double? = 0
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var success_min: Double? = 0
+var main_w: Bool? = false
+var sessionCloseHttpString: String!
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  private var devicePostVideosString: String?
+var directory_padding: Float? = 0.0
+var register_a4ActionAverageDict: [String: Any]?
+private var hasSave: Bool? = false
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var delete_h: Double? = 0
+var had_size: Double? = 0
+var has_End: Bool? = false
+var apple_idx: Int? = 0
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var visibleEnd_string: String?
+var buyEditString: String!
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var controller_min: Float? = 0
+var identifier_margin: Float? = 0
+var modity_max: Double? = 0
+var rinitialsMin: Double? = 0
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var media_idx: Int? = 0
+var fitting_t: Double? = 0
+var playing_space: Double? = 0
+
+[old: FS_CurrentUser -> new: DV_EventsEvents] insert  var isLiked: Bool? = false
+var make_s: Int? = 0
+var login_size: Double? = 0
+
+[old: AppDelegate -> new: AppDelegate] insert  var resultPhotosArr: [Any]?
+var clear_padding: Float? = 0.0
+private var canName: Bool? = false
+
+[old: FS_LaunchVC -> new: DV_VideoMenuController] insert  var confirmationTopLocal_4Dict: [String: Any]?
+private var progress_padding: Double? = 0.0
+var interval_jSuccessHandler_string: String!
+
+[old: FS_GuideVC -> new: DV_HeaderController] insert  var o_width: Bool? = false
+var thumbnail_size: Float? = 0.0
+private var e_image: Bool? = false
+var time_piWorkArray: [Any]?
+
+[old: FS_TabbarVC -> new: DV_RegisterReportController] insert  private var coins_mark: Int? = 0
+var input_sum: Int? = 0
+
+[old: FS_TabbarVC -> new: DV_RegisterReportController] insert  var frontOffset: Float? = 0.0
+private var stopIndex_arr: [Any]!
+var blue_size: Float? = 0.0
+var blurTag: Int? = 0
+
+[old: FS_BaseVC -> new: DV_MainDelegateController] insert  var can_Layout: Bool? = false
+var controlMargin: Double? = 0.0
+var verifySpreadUpdates_arr: [Any]!
+var is_Refresh: Bool? = false
+
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://docs.google.com/document/d/12leBE7MZXg28p9bqKUyhR-cwNyzBcgXIRkkay031LwE/edit?usp=sharing"
+"https://docs.google.com/document/d/1x6l00jtLF-ijhtCRcwGZ28Up7lzlAIPQc5dVj3WKKX8/edit?usp=sharing"
+"https://docs.google.com/document/d/12leBE7MZXg28p9bqKUyhR-cwNyzBcgXIRkkay031LwE/edit?usp=sharing"
+"https://docs.google.com/document/d/1x6l00jtLF-ijhtCRcwGZ28Up7lzlAIPQc5dVj3WKKX8/edit?usp=sharing"
+"https://api.fiveukmedia.xyz/hua/pl"
+"https://www.youtube.com/shorts/klV-AfP7vTg?feature=share"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌
