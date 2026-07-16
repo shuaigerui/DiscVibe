@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kiki_name</key>
+	<string>Kiki</string>
+	<key>Kiki_url</key>
+	<string>mbyrvfdw</string>
+	<key>Kiki_id</key>
+	<string>99069404</string>
+	<key>Kiki_key</key>
+	<string>1y9v5a3tpiuxqalf</string>
+	<key>Kiki_iv</key>
+	<string>x81dbjon9c6vxx6b</string>
+	<key>Kiki_bg</key>
+	<string>launch_bg</string>
+	<key>Kiki_debug</key>
+	<false/>
+</dict>
+</plist>

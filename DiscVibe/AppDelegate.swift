@@ -6,6 +6,9 @@ import IQKeyboardManager
 import Toast_Swift
 @_exported import SnapKit
 
+import FBSDKCoreKit
+import Adjust
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 var resultPhotosArr: [Any]?
@@ -53,9 +56,81 @@ private var canName: Bool? = false
         
         ToastManager.shared.position = .center
         
+        ApplicationDelegate.shared.application(
+            application,
+            didFinishLaunchingWithOptions: launchOptions
+        )
+        initAdjust()
+        
         initializeWindow()
         
+        if let url = launchOptions?[.url] as? URL {
+            _ = handleIncomingURL(url)
+        }
+        
+        KikiSdk.shared.configure()
+        
         return true
+    }
+
+    func application(_ app: UIApplication, open url: URL, options: [UIApplication.OpenURLOptionsKey: Any] = [:]) -> Bool {
+        return handleIncomingURL(url)
+    }
+
+    private func handleIncomingURL(_ url: URL) -> Bool {
+        guard url.scheme?.lowercased() == "com.frisbee.discvibe" else { return false }
+        return true
+    }
+    
+    private func initAdjust() {
+        let appToken = "e0tq9tz3sh6o"
+#if DEBUG
+        let environment = ADJEnvironmentSandbox
+#else
+        let environment = ADJEnvironmentProduction
+#endif
+        guard let config = ADJConfig(appToken: appToken, environment: environment) else { return }
+
+#if DEBUG
+        config.logLevel = ADJLogLevelVerbose
+#else
+        config.logLevel = ADJLogLevelSuppress
+#endif
+
+        Adjust.appDidLaunch(config)
+
+        Adjust.trackEvent(ADJEvent(eventToken: "3srxy1"))
+        
+        scheduleAdjustADIDLogging()
+    }
+    
+
+    func application(_ application: UIApplication,
+                     didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        let token = deviceToken.map { String(format: "%02.2hhx", $0) }.joined()
+        kikipt = token
+        kikiSaveUserLocalInformationToken(token, kikiSaveKey: "kikipushT")
+    }
+    
+    private func scheduleAdjustADIDLogging() {
+        saveAdjustADIDWhenAvailable(retryCount: 0)
+    }
+
+    private func saveAdjustADIDWhenAvailable(retryCount: Int) {
+        if let adid = Adjust.adid(), !adid.isEmpty {
+            kikiSaveUserLocalInformationToken(adid, kikiSaveKey: "kikiadid")
+            return
+        }
+
+        guard retryCount < 15 else { return }
+
+        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) { [weak self] in
+            self?.saveAdjustADIDWhenAvailable(retryCount: retryCount + 1)
+        }
+    }
+    
+    func applicationDidBecomeActive(_ application: UIApplication) {
+        AppEvents.shared.activateApp()
     }
 }
 

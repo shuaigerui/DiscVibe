@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.Frisbee.discVibe</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.Frisbee.discVibe</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>1849059062737182</string>
+	<key>FacebookClientToken</key>
+	<string>497dcf1d01b14cb4ae021a82e60c66f5</string>
+	<key>FacebookDisplayName</key>
+	<string>Kiki</string>
+</dict>
 </plist>
