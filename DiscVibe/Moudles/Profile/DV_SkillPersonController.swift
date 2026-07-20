@@ -135,6 +135,10 @@ _ = orignalResolved
       lhsc -= (Float(Int(lhsc > 236102231.0 || lhsc < -236102231.0 ? 81.0 : lhsc)))
    }
 
+        completeReport()
+    }
+
+    private func completeReport() {
         reportSuccessHandler?()
         navigationController?.popViewController(animated: true)
     }
@@ -183,7 +187,6 @@ _ = pkcryptSumdiff
         view.addSubview(backButton)
         view.addSubview(titleView)
         view.addSubview(tableView)
-        view.addSubview(confirmButton)
 
         backButton.snp.makeConstraints { make in
             make.leading.equalToSuperview().offset(6)
@@ -194,16 +197,10 @@ _ = pkcryptSumdiff
             make.centerX.equalToSuperview()
             make.centerY.equalTo(backButton)
         }
-        confirmButton.snp.makeConstraints { make in
-            make.centerX.equalToSuperview()
-            make.bottom.equalTo(view.safeAreaLayoutGuide).offset(-24)
-            make.width.equalTo(303)
-            make.height.equalTo(68)
-        }
         tableView.snp.makeConstraints { make in
             make.leading.trailing.equalToSuperview()
             make.top.equalTo(backButton.snp.bottom).offset(16)
-            make.bottom.equalTo(confirmButton.snp.top).offset(-16)
+            make.bottom.equalTo(view.safeAreaLayoutGuide).offset(-24)
         }
     }
 
@@ -321,7 +318,6 @@ _ = maxbitrateEncrypted
       delegate_83 += (Double(Int(delegate_83 > 267955579.0 || delegate_83 < -267955579.0 ? 13.0 : delegate_83)))
 
         backButton.addTarget(self, action: #selector(clickBackButton), for: .touchUpInside)
-        confirmButton.addTarget(self, action: #selector(clickConfirmButton), for: .touchUpInside)
     }
 
     private let backButton: UIButton = {
@@ -385,17 +381,6 @@ _ = maxbitrateEncrypted
         let view = UIImageView(image: UIImage(named: "report_title"))
         view.contentMode = .scaleAspectFit
         return view
-    }()
-
-    private let confirmButton: UIButton = {
-       var filex: [String: Any]! = [String(cString: [117,110,107,110,111,119,110,0], encoding: .utf8)!:21, String(cString: [102,97,105,108,97,98,108,101,0], encoding: .utf8)!:12]
-   for _ in 0 ..< 3 {
-      filex = ["\(filex.count)": filex.keys.count]
-   }
-
-        let button = UIButton(type: .custom)
-        button.setImage(UIImage(named: "info_confirm"), for: .normal)
-        return button
     }()
 
     private lazy var tableView: UITableView = {
@@ -771,77 +756,7 @@ extension DV_SkillPersonController: UITableViewDelegate {
 
 
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-
-         let specIntents: Double = rowPriorityScore(delegate_rDescription_3:[String(cString: [107,110,111,99,107,111,117,116,95,57,95,53,49,0], encoding: .utf8)!:99, String(cString: [108,97,117,110,99,104,101,100,95,103,95,52,57,0], encoding: .utf8)!:87, String(cString: [115,117,98,106,111,117,114,110,97,108,0], encoding: .utf8)!:80], interactionsIndices:String(cString: [114,116,112,101,110,99,0], encoding: .utf8)!)
-
-      if specIntents != 74 {
-             print(specIntents)
-      }
-
-_ = specIntents
-
-
-       var signH: String! = String(cString: [97,99,100,101,99,0], encoding: .utf8)!
-   while (signH == String(cString:[100,0], encoding: .utf8)!) {
-       var x_positionk: String! = String(cString: [101,114,114,111,114,99,98,0], encoding: .utf8)!
-       var default_dJ: [Any]! = [27, 93, 67]
-       _ = default_dJ
-       var rowS: String! = String(cString: [116,112,105,100,0], encoding: .utf8)!
-         default_dJ.append((x_positionk == (String(cString:[95,0], encoding: .utf8)!) ? rowS.count : x_positionk.count))
-      repeat {
-         x_positionk = "\(x_positionk.count >> (Swift.min(labs(2), 4)))"
-         if (String(cString:[57,109,112,0], encoding: .utf8)!) == x_positionk {
-            break
-         }
-      } while (3 > (1 & x_positionk.count)) && ((String(cString:[57,109,112,0], encoding: .utf8)!) == x_positionk)
-      while ((default_dJ.count << (Swift.min(x_positionk.count, 5))) <= 3) {
-          var template_sW: Double = 1.0
-          var resultsU: String! = String(cString: [115,101,116,105,0], encoding: .utf8)!
-         withUnsafeMutablePointer(to: &resultsU) { pointer in
-    
-         }
-          var signS: [String: Any]! = [String(cString: [118,101,99,0], encoding: .utf8)!:true]
-         x_positionk = "\(3 ^ resultsU.count)"
-         template_sW -= (Double(1 + Int(template_sW > 318879541.0 || template_sW < -318879541.0 ? 33.0 : template_sW)))
-         signS["\(template_sW)"] = rowS.count
-         break
-      }
-      if !x_positionk.contains(rowS) {
-         x_positionk = "\(x_positionk.count | 3)"
-      }
-          var appleJ: Float = 4.0
-         x_positionk = "\((Int(appleJ > 56194745.0 || appleJ < -56194745.0 ? 10.0 : appleJ) << (Swift.min(rowS.count, 5))))"
-          var j_playern: String! = String(cString: [114,111,108,108,0], encoding: .utf8)!
-          var sentenceO: String! = String(cString: [117,110,107,101,121,101,100,0], encoding: .utf8)!
-         x_positionk = "\(default_dJ.count + 1)"
-         j_playern.append("\(((String(cString:[52,0], encoding: .utf8)!) == j_playern ? j_playern.count : default_dJ.count))")
-         sentenceO.append("\(default_dJ.count % (Swift.max(x_positionk.count, 9)))")
-      if 3 == (x_positionk.count + 5) && 1 == (default_dJ.count + 5) {
-         default_dJ.append(x_positionk.count)
-      }
-      if (rowS.count ^ 2) < 5 || (2 ^ default_dJ.count) < 3 {
-         rowS.append("\(3 | default_dJ.count)")
-      }
-      while (5 >= rowS.count) {
-          var signW: String! = String(cString: [100,101,101,112,101,114,0], encoding: .utf8)!
-          var y_heightg: Bool = true
-          var stateP: String! = String(cString: [104,105,100,99,116,0], encoding: .utf8)!
-          _ = stateP
-          var desJ: Bool = true
-         withUnsafeMutablePointer(to: &desJ) { pointer in
-                _ = pointer.pointee
-         }
-         x_positionk.append("\(2)")
-         signW = "\(1 % (Swift.max(8, signW.count)))"
-         y_heightg = signW.count >= 86
-         stateP.append("\(((String(cString:[53,0], encoding: .utf8)!) == x_positionk ? default_dJ.count : x_positionk.count))")
-         desJ = (stateP.count + signW.count) > 21
-         break
-      }
-      signH.append("\(rowS.count)")
-      break
-   }
-
         selectedIndex = indexPath.row
+        completeReport()
     }
 }

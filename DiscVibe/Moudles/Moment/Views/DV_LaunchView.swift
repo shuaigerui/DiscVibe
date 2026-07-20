@@ -587,6 +587,7 @@ return         DV_EventsEvents.momentImage(for: name) ?? UIImage(named: name)
         let button = UIButton(type: .custom)
         button.setImage(UIImage(named: "moment_more"), for: .normal)
         button.isUserInteractionEnabled = false
+        button.isHidden = true
         return button
     }()
 

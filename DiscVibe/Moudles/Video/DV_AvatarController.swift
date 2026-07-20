@@ -345,11 +345,11 @@ _ = mrzVoted
         let template_8Controller = DV_SkillPersonController()
         template_8Controller.reportSuccessHandler = { [weak self] in
             guard let self else { return }
-            DV_EventsEvents.shared.reportComment(
+            guard DV_EventsEvents.shared.reportComment(
                 at: commentIndex,
                 authorEmail: analysis,
                 mediaType: .video
-            )
+            ) else { return }
             self.refreshComments(at: videoIndex)
         }
         navigationController?.pushViewController(template_8Controller, animated: true)
@@ -2087,10 +2087,11 @@ _ = pascalGrowing
 
         let template_8Controller = DV_SkillPersonController()
         template_8Controller.reportSuccessHandler = { [weak self] in
-            DV_EventsEvents.shared.reportVideoPost(authorEmail: video.authorEmail)
-            self?.dismissCommentPopup()
-            self?.loadData()
-            if let self, self.videoList.indices.contains(self.currentPlayingIndex ?? -1) {
+            guard let self else { return }
+            guard DV_EventsEvents.shared.reportVideoPost(authorEmail: video.authorEmail) else { return }
+            self.dismissCommentPopup()
+            self.loadData()
+            if self.videoList.indices.contains(self.currentPlayingIndex ?? -1) {
                 self.playVideo(at: self.currentPlayingIndex ?? 0)
             }
         }

@@ -1725,8 +1725,9 @@ _ = hwconfigNearly
 
         let template_8Controller = DV_SkillPersonController()
         template_8Controller.reportSuccessHandler = { [weak self] in
-            DV_EventsEvents.shared.reportImagePost(authorEmail: moment.authorEmail)
-            self?.loadData()
+            guard let self else { return }
+            guard DV_EventsEvents.shared.reportImagePost(authorEmail: moment.authorEmail) else { return }
+            self.loadData()
         }
         navigationController?.pushViewController(template_8Controller, animated: true)
     }

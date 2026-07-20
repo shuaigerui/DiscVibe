@@ -728,15 +728,11 @@ withUnsafeMutablePointer(to: &stringencodeSqliterebaser) { pointer in
         let template_8Controller = DV_SkillPersonController()
         template_8Controller.reportSuccessHandler = { [weak self] in
             guard let self else { return }
-            DV_EventsEvents.shared.reportComment(
+            guard DV_EventsEvents.shared.reportComment(
                 at: index,
                 authorEmail: self.moment.authorEmail,
                 mediaType: .image
-            )
-   while (confirmZ["\(confirmZ.count)"] == nil) {
-      confirmZ = ["\(confirmZ.count)": 1]
-      break
-   }
+            ) else { return }
             self.reloadComments()
         }
         navigationController?.pushViewController(template_8Controller, animated: true)
