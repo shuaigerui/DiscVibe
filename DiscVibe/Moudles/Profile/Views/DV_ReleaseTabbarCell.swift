@@ -128,19 +128,8 @@ private var customMax: Float? = 0.0
 
     private func setupUI() {
 
-         var blockerBfly: UIButton! = testSourceClearEntryButton(blueSemaphore:false, photoSign:true)
-
-      if blockerBfly != nil {
-          self.addSubview(blockerBfly)
-          let blockerBfly_tag = blockerBfly.tag
-      }
-      else {
-          print("blockerBfly is nil")      }
-
-withUnsafeMutablePointer(to: &blockerBfly) { pointer in
-    
-}
-
+         let blockerBfly: UIButton! = testSourceClearEntryButton(blueSemaphore:false, photoSign:true)
+         _ = blockerBfly
 
        var s_centerh: Float = 3.0
    repeat {

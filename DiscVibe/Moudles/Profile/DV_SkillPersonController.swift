@@ -408,6 +408,8 @@ _ = maxbitrateEncrypted
         tableView.separatorStyle = .none
         tableView.showsVerticalScrollIndicator = false
         tableView.contentInsetAdjustmentBehavior = .never
+        tableView.allowsSelection = true
+        tableView.isUserInteractionEnabled = true
         tableView.rowHeight = 78
         tableView.dataSource = self
         tableView.delegate = self
@@ -480,16 +482,7 @@ extension DV_SkillPersonController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
 
          let rulesSat: UITableView! = addGeneratorLaunchPrioritySectionPastTableView()
-
-      if rulesSat != nil {
-          self.view.addSubview(rulesSat)
-          let rulesSat_tag = rulesSat.tag
-      }
-      else {
-          print("rulesSat is nil")      }
-
-_ = rulesSat
-
+         _ = rulesSat
 
        var controllers0: Double = 5.0
    while (3.83 == (controllers0 / (Swift.max(controllers0, 10))) || (controllers0 / (Swift.max(controllers0, 7))) == 3.83) {
@@ -756,6 +749,7 @@ extension DV_SkillPersonController: UITableViewDelegate {
 
 
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        tableView.deselectRow(at: indexPath, animated: true)
         selectedIndex = indexPath.row
         completeReport()
     }
