@@ -520,7 +520,7 @@ _ = drawtextAsbd
                 Score: 65/100
 
                 • Unable to detect a clear full-body pose in this video.
-                • Please upload a side-view clip with your full body visible.
+                • Please select a side-view clip with your full body visible.
                 • Keep the camera steady and ensure good lighting.
                 """
             ))

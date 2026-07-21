@@ -1,0 +1,56 @@
+================================================================================
+COPY INTO YOUR GOOGLE DOC — Privacy Agreement
+Doc: https://docs.google.com/document/d/12leBE7MZXg28p9bqKUyhR-cwNyzBcgXIRkkay031LwE/edit
+================================================================================
+
+【插入位置 A — 必加】放在第 3 章「3. Information We Collect」里：
+在「3.2 Information We Collect Automatically」整节结束之后、
+「4. How We Use Your Information」之前，新增：
+
+--------------------------------------------------------------------------------
+3.3 On-Device Throw / Form Analysis (Apple Vision)
+
+DiscVibe includes an optional “Form Check” / throw analysis feature that helps you review your throwing form.
+
+What data is processed
+• Only the short video you choose from your Photo Library for this feature
+• The video is used solely to estimate body-pose / movement feedback (for example, arm and shoulder angles)
+
+Who processes the data
+• Processing is performed only on your device
+• We use Apple’s on-device Vision framework (including human body pose detection)
+• DiscVibe does not send this video to DiscVibe servers for AI analysis
+• DiscVibe does not share this video with any third-party AI service or remote AI API
+
+What we do NOT do
+• We do not upload your selected throw video to any cloud AI provider
+• We do not sell or share this video with advertisers or third-party AI companies
+• Temporary local copies may be kept briefly in the app sandbox only for processing and are not used for other purposes
+
+Your control
+• This feature runs only after you choose a video and agree to the in-app notice
+• You can decline the notice and continue using other parts of the app
+• You can control Photo Library access in iOS Settings
+--------------------------------------------------------------------------------
+
+
+【插入位置 B — 强烈建议】放在第 5 章「5. How We Share Your Information」开头
+（在 “We do not sell your personal information.” 后面立刻加一段）：
+
+--------------------------------------------------------------------------------
+We also do not share your Form Check / throw analysis videos with any third-party AI service. That feature runs entirely on your device using Apple Vision, and the selected video is not uploaded for remote AI processing.
+--------------------------------------------------------------------------------
+
+
+【插入位置 C — 强烈建议】放在第 11 章「11. Apple App Store Specific Disclosures」的列表中新增一条：
+
+--------------------------------------------------------------------------------
+• On-device Form Check / throw analysis uses Apple Vision on the user’s device only. Selected videos for this feature are not transmitted to DiscVibe servers or any third-party AI service.
+--------------------------------------------------------------------------------
+
+
+【可选】第 4 章「4. How We Use Your Information」里、4.1 末尾可加一句：
+
+--------------------------------------------------------------------------------
+• Provide optional on-device Form Check feedback for throw videos you select, processed locally with Apple Vision and not uploaded to third-party AI services
+--------------------------------------------------------------------------------

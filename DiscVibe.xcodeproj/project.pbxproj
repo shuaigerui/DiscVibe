@@ -268,7 +268,7 @@
 				INFOPLIST_KEY_CFBundleDisplayName = Kiki;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is required for video calls.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is required for video calls.";
-				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to set your profile picture.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to set your profile picture and to select a throw video for on-device form analysis. Selected videos are processed only on your device and are not uploaded to any third-party AI service.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -433,7 +433,7 @@
 				INFOPLIST_KEY_CFBundleDisplayName = Kiki;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Camera access is required for video calls.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Microphone access is required for video calls.";
-				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to set your profile picture.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to set your profile picture and to select a throw video for on-device form analysis. Selected videos are processed only on your device and are not uploaded to any third-party AI service.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;

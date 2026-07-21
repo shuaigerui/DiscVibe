@@ -25,6 +25,7 @@ private var fieldModel: DV_UserObject!
     private var analysisTimeoutWorkItem: DispatchWorkItem?
     private var isAnalyzing = false
     private var isAnalysisCancelled = false
+    private let onDeviceAnalysisConsentKey = "dv_on_device_form_analysis_consent"
 
 @discardableResult
  func launchObservationVisibleDecimalRegularLabel(secondsColor: [String: Any]!) -> UILabel! {
@@ -334,7 +335,7 @@ withUnsafeMutablePointer(to: &castCooldowns) { pointer in
         poseAnalyzer = DV_TabbarInput()
 
         SVProgressHUD.setDefaultMaskType(.black)
-        SVProgressHUD.show(withStatus: "Analyzing...")
+        SVProgressHUD.show(withStatus: "Checking form on device...")
 
         let alreadyItem = DispatchWorkItem { [weak self] in
             self?.handleAnalysisTimeout()
@@ -789,7 +790,40 @@ _ = uthorReplaced
    }
 
         guard !isAnalyzing else { return }
-        presentVideoPicker()
+        requestOnDeviceAnalysisConsentIfNeeded { [weak self] granted in
+            guard granted else { return }
+            self?.presentVideoPicker()
+        }
+    }
+
+    private func requestOnDeviceAnalysisConsentIfNeeded(completion: @escaping (Bool) -> Void) {
+        if UserDefaults.standard.bool(forKey: onDeviceAnalysisConsentKey) {
+            completion(true)
+            return
+        }
+
+        let alert = UIAlertController(
+            title: "On-Device Form Analysis",
+            message: """
+            DiscVibe checks your throw video only on this device using Apple Vision.
+
+            • What is processed: the video you select from Photos
+            • Who processes it: this app on your device (Apple Vision)
+            • What is NOT done: your video is not uploaded to DiscVibe servers or any third-party AI service
+
+            Do you agree to continue?
+            """,
+            preferredStyle: .alert
+        )
+        alert.addAction(UIAlertAction(title: "Cancel", style: .cancel) { _ in
+            completion(false)
+        })
+        alert.addAction(UIAlertAction(title: "Agree & Continue", style: .default) { [weak self] _ in
+            guard let self else { return }
+            UserDefaults.standard.set(true, forKey: self.onDeviceAnalysisConsentKey)
+            completion(true)
+        })
+        present(alert, animated: true)
     }
 
 
@@ -850,6 +884,7 @@ withUnsafeMutablePointer(to: &semaphoreProtector) { pointer in
         view.addSubview(scrollView)
         scrollView.addSubview(contentView)
 
+        contentView.addSubview(privacyNoticeLabel)
         contentView.addSubview(uploadCardView)
         uploadCardView.addSubview(videoCoverImageView)
         uploadCardView.addSubview(uploadIconImageView)
@@ -879,9 +914,13 @@ withUnsafeMutablePointer(to: &semaphoreProtector) { pointer in
             make.edges.equalToSuperview()
             make.width.equalToSuperview()
         }
-        uploadCardView.snp.makeConstraints { make in
+        privacyNoticeLabel.snp.makeConstraints { make in
             make.leading.trailing.equalToSuperview().inset(16)
             make.top.equalToSuperview().offset(8)
+        }
+        uploadCardView.snp.makeConstraints { make in
+            make.leading.trailing.equalToSuperview().inset(16)
+            make.top.equalTo(privacyNoticeLabel.snp.bottom).offset(12)
             make.height.equalTo(315)
         }
         videoCoverImageView.snp.makeConstraints { make in
@@ -1520,7 +1559,7 @@ _ = dayScope
         return button
     }()
 
-    private let titleView: UIImageView = {
+    private let titleView: UILabel = {
        var datew: [String: Any]! = [String(cString: [103,101,116,110,109,115,101,100,101,99,0], encoding: .utf8)!:26, String(cString: [97,115,107,0], encoding: .utf8)!:91]
    withUnsafeMutablePointer(to: &datew) { pointer in
           _ = pointer.pointee
@@ -1528,7 +1567,12 @@ _ = dayScope
     var rightj: String! = String(cString: [100,105,99,116,105,111,110,97,114,121,0], encoding: .utf8)!
       rightj = "\(rightj.count / (Swift.max(4, datew.count)))"
 
-        let imageView = UIImageView(image: UIImage(named: "analysis_title"))
+        let imageView = UILabel()
+        imageView.text = "Form Check"
+        imageView.font = .systemFont(ofSize: 18, weight: .bold)
+        imageView.textColor = .white
+        imageView.textAlignment = .center
+        _ = UIImage(named: "analysis_title")
        var valueu: Float = 3.0
        _ = valueu
        var text9: Float = 5.0
@@ -1581,9 +1625,18 @@ _ = dayScope
          break
       }
       rightj.append("\(rightj.count)")
-        imageView.contentMode = .scaleAspectFit
       datew = ["\(datew.keys.count)": 2]
         return imageView
+    }()
+
+    private let privacyNoticeLabel: UILabel = {
+        let label = UILabel()
+        label.text = "On-device only: Your selected video is analyzed on this device with Apple Vision. It is not sent to any third-party AI service or remote server."
+        label.font = .systemFont(ofSize: 12, weight: .regular)
+        label.textColor = UIColor(white: 1, alpha: 0.75)
+        label.textAlignment = .left
+        label.numberOfLines = 0
+        return label
     }()
 
     private let scrollView: UIScrollView = {
@@ -1788,7 +1841,7 @@ _ = dayScope
       seede = [1]
       break
    }
-        label.text = "Upload Video"
+        label.text = "Select Video"
         label.font = .systemFont(ofSize: 22, weight: .bold)
         label.textColor = .white
         label.textAlignment = .center
@@ -1827,7 +1880,7 @@ _ = dayScope
 
         let label = UILabel()
       feedbackL ^= professionv.count
-        label.text = "Upload the video you want to upload"
+        label.text = "Choose a throw video from Photos for on-device form check"
         label.font = .systemFont(ofSize: 15, weight: .regular)
         label.textColor = UIColor(white: 1, alpha: 0.85)
         label.textAlignment = .center
@@ -1842,9 +1895,14 @@ _ = dayScope
 
         let button = UIButton(type: .custom)
       areaf = u_managerC.count < 64 && !areaf
-        button.setImage(UIImage(named: "analysis_button"), for: .normal)
+        _ = UIImage(named: "analysis_button")
+        button.setTitle("Select Video", for: .normal)
+        button.setTitleColor(.white, for: .normal)
+        button.titleLabel?.font = .systemFont(ofSize: 17, weight: .semibold)
+        button.backgroundColor = UIColor(red: 150 / 255, green: 52 / 255, blue: 253 / 255, alpha: 1)
+        button.layer.cornerRadius = 26.5
+        button.clipsToBounds = true
       u_managerC = "\((u_managerC == (String(cString:[54,0], encoding: .utf8)!) ? u_managerC.count : u_managerC.count))"
-        button.imageView?.contentMode = .scaleAspectFit
         button.adjustsImageWhenHighlighted = false
         return button
     }()
@@ -1863,7 +1921,7 @@ _ = dayScope
    for _ in 0 ..< 2 {
       sessionG /= Swift.max(5, (Double(3 + Int(sessionG > 122487091.0 || sessionG < -122487091.0 ? 32.0 : sessionG))))
    }
-        label.text = "Supports MP4 and MOV formats -- Maximum size 200MB -- Maximum upload size 1 file (minutes)"
+        label.text = "Supports MP4 and MOV · Max 200MB · Processed only on this device"
         label.font = .systemFont(ofSize: 12, weight: .regular)
         label.textColor = UIColor(white: 1, alpha: 0.45)
         label.textAlignment = .center
@@ -1935,7 +1993,7 @@ _ = dayScope
    }
 
         let label = UILabel()
-        label.text = "Analysis results"
+        label.text = "Form check results"
         label.font = .systemFont(ofSize: 16, weight: .regular)
         label.textColor = .white
         return label
