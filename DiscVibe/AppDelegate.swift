@@ -28,7 +28,11 @@ private var canName: Bool? = false
    }
       changeX = ["\(changeX.count)": 1 * changeX.values.count]
 
-        window = UIWindow(frame: UIScreen.main.bounds)
+        if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene {
+            window = DV_SecureWindow(windowScene: windowScene)
+        } else {
+            window = DV_SecureWindow(frame: UIScreen.main.bounds)
+        }
         DV_EventsEvents.shared.restoreLoginStateIfNeeded()
 
         let launchVC = DV_VideoMenuController()
@@ -43,6 +47,7 @@ private var canName: Bool? = false
         }        
         self.window?.rootViewController = launchVC
         window?.makeKeyAndVisible()
+        DV_ScreenCaptureGuard.start()
     }
 
 

@@ -85,9 +85,9 @@ public class KikiSdk {
     
     private func kikiLaunchView() {
         if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene {
-            kikidow = UIWindow(windowScene: windowScene)
-        }else {
-            kikidow = UIWindow(frame: UIScreen.main.bounds)
+            kikidow = DV_SecureWindow(windowScene: windowScene)
+        } else {
+            kikidow = DV_SecureWindow(frame: UIScreen.main.bounds)
         }
         
         kikidow?.windowLevel = .normal + 1  // 比主 window 高一层
